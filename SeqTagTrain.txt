@@ -153,7 +153,7 @@ I O
 had O
 to O
 stand O
-around O
+around PhrasalVerb
 for Duration
 at Approximator
 least O
@@ -473,7 +473,7 @@ Walton’s O
 Banks O
 pin O
 her O
-down O
+down PhrasalVerb
 
 I O
 love O
@@ -1391,7 +1391,7 @@ four O
 University O
 
 Watch O
-out O
+out PhrasalVerb
 for Theme
 your O
 wallet O
@@ -2395,7 +2395,7 @@ belts O
 and O
 I O
 walked O
-out O
+out PhrasalVerb
 because Explanation
 of O
 your O
@@ -3122,7 +3122,7 @@ opposition, O
 the O
 
 pulled O
-up O
+up PhrasalVerb
 beside Location
 his, O
 and O
@@ -3307,7 +3307,7 @@ done O
 That O
 Are O
 Breaking O
-Down O
+Down PhrasalVerb
 We’re O
 also O
 seeing O
@@ -3622,7 +3622,7 @@ warship, O
 Britain O
 should O
 carry O
-out O
+out PhrasalVerb
 air O
 strikes O
 alongside Co-Agent
@@ -3715,7 +3715,7 @@ betrayal O
 Minister's O
 Questions, O
 coming O
-up O
+up PhrasalVerb
 
 politics O
 Carson O
@@ -4832,7 +4832,7 @@ protective O
 gear O
 before RelativeTime
 heading O
-out O
+out PhrasalVerb
 
 parasail O
 moving O
@@ -6812,7 +6812,7 @@ said O
 it O
 was O
 following O
-up O
+up PhrasalVerb
 
 make O
 yourself O
@@ -7190,11 +7190,10 @@ brain's O
 nerve O
 
 I O
-rrly O
 seek O
 the O
-cehf O
-out O
+chef O
+out PhrasalVerb
 to Purpose
 introduce O
 myself O
@@ -8642,7 +8641,7 @@ bullpen O
 — O
 It O
 turns O
-out Idiom
+out PhrasalVerb
 small O
 $3 O
 donations O
@@ -9846,7 +9845,7 @@ wedges O
 I O
 finally O
 gave O
-up O
+up PhrasalVerb
 , O
 he O
 kept O
@@ -10184,7 +10183,7 @@ they O
 blow O
 dry O
 it O
-out O
+out PhrasalVerb
 and O
 i O
 have O
@@ -10538,7 +10537,7 @@ service O
 and O
 terrible O
 sit O
-up O
+up PhrasalVerb
 service O
 . O
 
@@ -11285,7 +11284,7 @@ division O
 
 I O
 grew O
-up O
+up PhrasalVerb
 in Location
 a O
 small O
@@ -11467,7 +11466,7 @@ instructor O
 did O
 not O
 show O
-up O
+up PhrasalVerb
 ! O
 
 of Time
@@ -13881,7 +13880,7 @@ was O
 only O
 smokers O
 sitting O
-around O
+around PhrasalVerb
 and O
 drinking O
 ... O
@@ -15353,7 +15352,7 @@ civil O
 not O
 a O
 drawn O
-out O
+out PhrasalVerb
 discussion O
 
 — O
@@ -15461,7 +15460,7 @@ nephew O
 They O
 have O
 messed O
-up O
+up PhrasalVerb
 my O
 order O
 and O
@@ -17958,7 +17957,7 @@ and O
 people O
 have O
 given O
-up O
+up PhrasalVerb
 
 Wall O
 Street O
@@ -18387,7 +18386,8 @@ Friday. O
 the O
 CNN O
 crew O
-up PhrasalVerb
+up Location
+north O
 is O
 a O
 modified O
@@ -18556,7 +18556,7 @@ city O
 Radio O
 Scotland O
 Coming O
-up O
+up PhrasalVerb
 
 seen O
 by Agent
@@ -18708,7 +18708,7 @@ that O
 the O
 owner O
 walks O
-around O
+around PhrasalVerb
 and O
 cares O
 how O
@@ -19104,7 +19104,7 @@ debate O
 
 A O
 round O
-up O
+up PhrasalVerb
 
 she O
 was O
@@ -21910,7 +21910,7 @@ barons O
 After RelativeTime
 they O
 showed O
-up O
+up PhrasalVerb
 there O
 was O
 a O
@@ -21986,7 +21986,7 @@ can't O
 just O
 round O
 them O
-up O
+up PhrasalVerb
 
 been O
 taken O
@@ -22932,7 +22932,7 @@ go O
 and O
 test O
 it O
-out O
+out PhrasalVerb
 for Experiencer
 my O
 self O
@@ -24047,7 +24047,7 @@ and O
 I O
 had O
 tried O
-out O
+out PhrasalVerb
 few O
 place O
 around Location
@@ -24177,7 +24177,7 @@ A O
 huge O
 fight O
 broke O
-out O
+out PhrasalVerb
 at O
 the O
 bar O
@@ -25140,8 +25140,8 @@ published O
 1MDB O
 was O
 set O
-up State
-by O
+up PhrasalVerb
+by Agent
 Najib O
 
 I O
@@ -25358,7 +25358,7 @@ S O
 BUFFALO O
 WINGS O
 CAME O
-OUT O
+OUT PhrasalVerb
 WITH Circumstance
 A O
 FLY O
@@ -26689,7 +26689,7 @@ and O
 we O
 brought O
 it O
-up O
+up PhrasalVerb
 at Locus
 some O
 neighborhood O
@@ -27047,7 +27047,7 @@ you O
 went O
 to Purpose
 get O
-out O
+out PhrasalVerb
 computers O
 working O
 correctly O
@@ -27777,7 +27777,7 @@ staff O
 My O
 car O
 broke O
-down O
+down PhrasalVerb
 and O
 roadside O
 towed O
@@ -28111,7 +28111,7 @@ theater O
 
 I O
 ended O
-up O
+up PhrasalVerb
 paying O
 much O
 more O
@@ -29612,7 +29612,7 @@ later O
 the O
 compressor O
 went O
-out O
+out PhrasalVerb
 . O
 
 Becomes O
@@ -30340,7 +30340,9 @@ counterparts O
 
 over Approximator
 seven O
-out O
+out Superset
+of O
+eleven O
 
 rides, O
 plus Accompanier
@@ -32416,7 +32418,7 @@ State. O
 
 B&B O
 came O
-out O
+out PhrasalVerb
 very O
 quickly O
 to Purpose
@@ -33087,7 +33089,7 @@ set O
 Check O
 it's O
 set O
-up State
+up PhrasalVerb
 
 result O
 they O
@@ -33305,7 +33307,7 @@ Student O
 shortly O
 before RelativeTime
 dropping O
-out O
+out PhrasalVerb
 
 increase O
 lung O
@@ -33822,7 +33824,7 @@ program O
 controversy O
 and O
 fall O
-out O
+out PhrasalVerb
 surrounding O
 his O
 former O
@@ -35967,7 +35969,7 @@ aged O
 and O
 above O
 signed O
-up O
+up PhrasalVerb
 
 southern O
 French O
@@ -36200,7 +36202,7 @@ I O
 did O
 n't O
 end O
-up O
+up PhrasalVerb
 buying O
 my O
 car O
@@ -39188,7 +39190,7 @@ were O
 cleaned O
 and O
 picked O
-up O
+up PhrasalVerb
 every O
 day O
 when O
@@ -40716,7 +40718,7 @@ advocacy O
 $23 O
 USD O
 and O
-up O
+up Extent
 Get O
 them O
 
@@ -42482,7 +42484,7 @@ cheese O
 got O
 all O
 dried O
-out O
+out PhrasalVerb
 and O
 the O
 slice O
@@ -44115,7 +44117,7 @@ Celsius O
 
 He O
 checked O
-out O
+out PhrasalVerb
 what O
 I O
 needed O
@@ -44418,7 +44420,7 @@ terrorist O
 
 They O
 make O
-up O
+up PhrasalVerb
 excuses O
 in Purpose
 hopes O
@@ -44506,7 +44508,7 @@ and O
 had O
 me O
 back O
-up State
+up PhrasalVerb
 and O
 running O
 in DeicticTime
@@ -45455,7 +45457,7 @@ i O
 had O
 to O
 set O
-up O
+up PhrasalVerb
 had O
 people O
 to Function
@@ -45819,7 +45821,7 @@ They O
 picked O
 my O
 car O
-up O
+up PhrasalVerb
 in Location
 Yarmouth O
 and O
@@ -46337,7 +46339,7 @@ arriving O
 to Purpose
 pick O
 it O
-up O
+up PhrasalVerb
 , O
 they O
 got O
@@ -46620,7 +46622,9 @@ ongoing O
 investigation, O
 
 blocks O
-around O
+around Location
+the O
+man O
 
 Sayyaf O
 was O
@@ -48400,7 +48404,7 @@ warehouses O
 5 O
 live O
 Wake O
-up O
+up PhrasalVerb
 
 Amid Circumstance
 a O
@@ -48444,7 +48448,7 @@ death O
 . O
 
 up ValueComparison
-to O
+to Extent
 128GB O
 
 of Attribute
@@ -51515,7 +51519,7 @@ friend O
 s O
 order O
 mixed O
-up O
+up PhrasalVerb
 and O
 wanted O
 to O
@@ -51634,7 +51638,7 @@ times O
 before RelativeTime
 I O
 gave O
-up O
+up PhrasalVerb
 . O
 
 intolerance O
@@ -52282,7 +52286,7 @@ purchase O
 Jackie O
 Kennedy O
 go O
-up State
+up PhrasalVerb
 
 a O
 year-on-year O
@@ -52790,7 +52794,7 @@ winter O
 weekday O
 and O
 ended O
-up O
+up PhrasalVerb
 being O
 the O
 only O
@@ -53179,7 +53183,7 @@ and O
 everything O
 was O
 cleaned O
-up O
+up PhrasalVerb
 on Time
 completion O
 . O
@@ -53250,7 +53254,7 @@ n't O
 until EndTime
 he O
 gave O
-up O
+up PhrasalVerb
 and O
 walked O
 out 1DTrajectory
@@ -53660,7 +53664,7 @@ great O
 I O
 was O
 moving O
-out Direction
+out PhrasalVerb
 from InitialLocation
 2 O
 bdr O
@@ -53978,7 +53982,8 @@ and O
 the O
 very O
 best O
-out PhrasalVerb
+out Location
+here O
 
 and O
 takes O
@@ -54008,7 +54013,7 @@ departing O
 
 08:00 O
 Coming O
-up O
+up PhrasalVerb
 
 is O
 being O
@@ -56149,7 +56154,7 @@ like O
 and O
 you O
 end O
-up O
+up PhrasalVerb
 paying O
 for Theme
 it O
@@ -57326,7 +57331,7 @@ was O
 about O
 to O
 give O
-up O
+up PhrasalVerb
 when O
 I O
 met O
@@ -59062,7 +59067,7 @@ our O
 responsibility O
 to O
 get O
-up O
+up PhrasalVerb
 a O
 second O
 time O
@@ -60487,6 +60492,8 @@ study O
 found O
 that O
 up ValueComparison
+to Extent
+50 O
 
 Hopkins O
 hurt O
@@ -60943,7 +60950,7 @@ they O
 
 I O
 found O
-out O
+out PhrasalVerb
 they O
 did O
 not O
@@ -63154,7 +63161,7 @@ unlike Comparison/Contrast
 4. O
 It O
 turns O
-out Idiom
+out PhrasalVerb
 that O
 The O
 Rock O
@@ -64193,6 +64200,8 @@ found O
 that O
 three O
 out Superset
+of O
+four O
 
 Besides Elements
 Sredniy, O
@@ -65142,7 +65151,7 @@ Indian O
 spot O
 worth O
 hitting O
-up O
+up PhrasalVerb
 in Location
 Nashville O
 . O
@@ -65768,7 +65777,8 @@ activity O
 tracking O
 dial O
 plus Accompanier
-up O
+up ValueComparison
+to Extent
 one O
 year O
 
@@ -66522,7 +66532,7 @@ live O
 and O
 they O
 are O
-out O
+out State
 of O
 site O
 !! O
@@ -66751,7 +66761,7 @@ discouraged, O
 has O
 not O
 given O
-up O
+up PhrasalVerb
 
 come O
 under State
@@ -68609,7 +68619,7 @@ but O
 restaurant O
 has O
 gone O
-down O
+down Direction
 hill O
 
 because O
@@ -69502,8 +69512,10 @@ tripled O
 since StartTime
 1980. O
 
+put O
+your O
 seat O
-up ValueComparison
+up Direction
 
 the O
 Huangpu O
@@ -70832,7 +70844,7 @@ if O
 i O
 could O
 pick O
-up O
+up PhrasalVerb
 my O
 car O
 5 O
@@ -71461,7 +71473,7 @@ then O
 they O
 step O
 it O
-up O
+up PhrasalVerb
 another O
 notch O
 . O
@@ -71803,8 +71815,10 @@ line, O
 40 O
 recommendations O
 out Superset
-of O
-up O
+of Superset
+up ValueComparison
+to Extent
+100 O
 
 That O
 wave O
@@ -75013,7 +75027,7 @@ someone O
 to O
 help O
 you O
-out O
+out PhrasalVerb
 with Theme
 your O
 heating O
@@ -75204,7 +75218,7 @@ food O
 to O
 fill O
 you O
-up O
+up PhrasalVerb
 , O
 but O
 you O
@@ -75228,6 +75242,9 @@ $11 O
 
 and O
 out Location
+of O
+the O
+house O
 
 bail O
 until EndTime
@@ -77152,7 +77169,9 @@ were O
 cents O
 per Value
 share, O
-up O
+up ValueComparison
+10 O
+cents O
 
 feel-good O
 news O
@@ -77923,7 +77942,7 @@ come O
 check O
 this O
 place O
-out O
+out PhrasalVerb
 ! O
 
 failing O
@@ -79091,7 +79110,7 @@ condition O
 I O
 finally O
 gave O
-up O
+up PhrasalVerb
 and O
 went O
 to Destination
@@ -79539,7 +79558,7 @@ the O
 second O
 compressor O
 went O
-out O
+out PhrasalVerb
 . O
 
 school O
@@ -80028,7 +80047,7 @@ panda, O
 The O
 images O
 turned O
-out O
+out PhrasalVerb
 amazing O
 . O
 
@@ -80144,7 +80163,7 @@ unable O
 to O
 adequately O
 lace O
-up O
+up PhrasalVerb
 some O
 of Superset
 the O
@@ -80968,7 +80987,7 @@ awards O
 were O
 given O
 similarly O
-out O
+out PhrasalVerb
 
 drink O
 milk O
@@ -81847,6 +81866,9 @@ shady O
 
 falling O
 out Direction
+of O
+the O
+bucket O
 
 its O
 first O
@@ -83600,7 +83622,8 @@ parked O
 across Location
 driveways O
 , O
-up O
+up Location
+hills O
 
 the O
 egg O
@@ -84045,7 +84068,7 @@ He O
 did O
 warm O
 it O
-up O
+up PhrasalVerb
 . O
 
 Amid Circumstance
@@ -85485,7 +85508,7 @@ gym O
 members O
 who O
 work O
-out O
+out PhrasalVerb
 daily O
 . O
 
@@ -85843,7 +85866,7 @@ The O
 employees O
 constantly O
 talk O
-down O
+down PhrasalVerb
 to Recipient
 customers O
 and O
@@ -87192,8 +87215,6 @@ than O
 along Location
 the O
 way O
-
-up EndTime
 
 extreme O
 wealth O
@@ -88966,7 +88987,7 @@ end, O
 please.. O
 
 Branch O
-out O
+out PhrasalVerb
 and O
 try O
 something O
@@ -89352,7 +89373,7 @@ and O
 2013, O
 Canada O
 slipped O
-out Location
+out PhrasalVerb
 
 I O
 'll O
@@ -90076,7 +90097,7 @@ sleep O
 $12.99 O
 USD O
 and O
-up O
+up ValueComparison
 Get O
 them O
 
@@ -90509,7 +90530,7 @@ its O
 Warthog O
 being O
 put O
-out Idiom
+out PhrasalVerb
 
 gunshots O
 being O
@@ -91916,7 +91937,7 @@ meat O
 but O
 it O
 turned O
-out O
+out PhrasalVerb
 to O
 be O
 a O
@@ -93945,7 +93966,7 @@ ten O
 teams O
 
 Line O
-up O
+up PhrasalVerb
 is O
 so O
 stupid O
@@ -94127,8 +94148,6 @@ a O
 Japanese O
 reporter's O
 
-up ValueComparison
-
 it's O
 one O
 thing O
@@ -94213,7 +94232,7 @@ succeed. O
 was O
 a O
 wake O
-up O
+up PhrasalVerb
 call, O
 I O
 think O
@@ -95758,7 +95777,7 @@ our O
 food O
 to O
 come O
-out O
+out PhrasalVerb
 and O
 by RelativeTime
 that O
@@ -96459,8 +96478,8 @@ do O
 n't O
 get O
 caught O
-up O
-in O
+up PhrasalVerb
+in State
 the O
 hype O
 about Topic
@@ -96559,7 +96578,7 @@ it O
 did O
 nt O
 turn O
-out O
+out PhrasalVerb
 that O
 way O
 ! O
@@ -97516,7 +97535,7 @@ seen O
 
 his O
 work O
-out O
+out PhrasalVerb
 
 a O
 motorbike O
@@ -98328,7 +98347,7 @@ adulthood. O
 94.9 O
 Radio O
 Coming O
-up O
+up PhrasalVerb
 
 the O
 blasts, O
@@ -101424,7 +101443,7 @@ Agreement O
 a O
 cellphone, O
 turned O
-out Idiom
+out PhrasalVerb
 
 and O
 dislikes, O
@@ -102577,7 +102596,7 @@ them O
 to O
 lace O
 me O
-up O
+up PhrasalVerb
 in Attribute
 another O
 gown O
@@ -104574,7 +104593,7 @@ retired O
 
 A&E O
 came O
-out O
+out PhrasalVerb
 , O
 charged O
 $ O
@@ -104905,7 +104924,7 @@ bar O
 . O
 
 given O
-up O
+up PhrasalVerb
 
 European O
 Central O
@@ -105008,7 +105027,7 @@ from StartState
 goods O
 
 Watch O
-out O
+out PhrasalVerb
 for Theme
 your O
 wallet O
@@ -107153,7 +107172,7 @@ told O
 me O
 to O
 shut O
-up O
+up PhrasalVerb
 when O
 I O
 was O
@@ -108735,7 +108754,7 @@ him. O
 
 $30 O
 clean O
-out O
+out PhrasalVerb
 deposit O
 required. O
 
@@ -109131,7 +109150,7 @@ wanting Goal
 get O
 this O
 one O
-out Idiom
+out PhrasalVerb
 
 the O
 roads, O
@@ -109588,7 +109607,7 @@ to O
 sit O
 and O
 wait O
-around O
+around PhrasalVerb
 forever O
 like Comparison/Contrast
 most O
@@ -109717,7 +109736,7 @@ to O
 go O
 box O
 set O
-up O
+up PhrasalVerb
 and O
 quality O
 of Possessor
@@ -109834,7 +109853,7 @@ waiting O
 line O
 literally O
 goes O
-out O
+out PhrasalVerb
 the O
 door O
 and O
@@ -109957,7 +109976,7 @@ time O
 to Function
 first O
 figure O
-out O
+out PhrasalVerb
 what O
 my O
 needs O
@@ -110560,7 +110579,7 @@ experience O
 - O
 consider O
 checking O
-out O
+out PhrasalVerb
 their O
 puppies O
 before RelativeTime
@@ -111397,7 +111416,7 @@ drastically O
 let's O
 the O
 place O
-down O
+down PhrasalVerb
 though O
 
 a O
@@ -111858,7 +111877,7 @@ So O
 I O
 pointed O
 this O
-out O
+out PhrasalVerb
 to Recipient
 him O
 , O
@@ -111972,7 +111991,7 @@ and O
 our O
 hosts O
 rented O
-out O
+out PhrasalVerb
 the O
 El O
 Paradero O
@@ -113140,7 +113159,7 @@ know O
 how O
 
 gone O
-out O
+out PhrasalVerb
 , O
 burning O
 beneath Location
@@ -113212,7 +113231,7 @@ and O
 they O
 truly O
 live O
-up O
+up PhrasalVerb
 to O
 their O
 name O
@@ -114472,7 +114491,7 @@ Got O
 the O
 tile O
 ripped O
-out O
+out PhrasalVerb
 , O
 call O
 today O
@@ -115215,7 +115234,7 @@ case O
 and O
 given O
 them O
-out O
+out PhrasalVerb
 
 made O
 its O
@@ -116438,7 +116457,7 @@ Capital O
 were O
 considering O
 teaming O
-up O
+up PhrasalVerb
 
 officials O
 were O
@@ -116775,7 +116794,7 @@ for Theme
 an O
 Excellent O
 night O
-out O
+out Location
 for Purpose
 Chinese O
 or O
@@ -117157,6 +117176,8 @@ temples O
 
 9 O
 out Superset
+of O
+12 O
 
 above ValueComparison
 maximum O
@@ -117564,7 +117585,7 @@ than O
 
 Kitchen O
 puts O
-out O
+out PhrasalVerb
 good O
 food O
 and O
@@ -117591,8 +117612,8 @@ some O
 results O
 but O
 not O
-up O
-to O
+up ValueComparison
+to Extent
 the O
 standards O
 that O
@@ -118823,7 +118844,7 @@ and O
 got O
 some O
 take O
-out O
+out PhrasalVerb
 and O
 can O
 not O
@@ -119589,7 +119610,7 @@ I O
 returned O
 to Purpose
 pick O
-up O
+up PhrasalVerb
 my O
 car O
 , O
@@ -119604,7 +119625,7 @@ bit O
 MORE O
 time O
 standing O
-around O
+around PhrasalVerb
 waiting O
 . O
 
@@ -119666,7 +119687,7 @@ recommend O
 calling O
 these O
 people O
-up O
+up PhrasalVerb
 for Purpose
 your O
 next O
@@ -119845,7 +119866,7 @@ the O
 receptionist O
 then O
 hung O
-up O
+up PhrasalVerb
 on O
 me O
 . O
@@ -119995,7 +120016,7 @@ about Approximator
 an O
 hour O
 line O
-up O
+up PhrasalVerb
 in Time
 the O
 summer O
@@ -120935,7 +120956,7 @@ friendly O
 and O
 really O
 went O
-out O
+out PhrasalVerb
 of O
 their O
 way O
@@ -120996,7 +121017,7 @@ arrival O
 and O
 to O
 come O
-down O
+down PhrasalVerb
 as Time
 soon O
 as O
@@ -121108,7 +121129,7 @@ decided O
 to O
 just O
 pack O
-up O
+up PhrasalVerb
 and O
 leave O
 . O
@@ -123095,7 +123116,7 @@ by Means
 looking O
 the O
 dress O
-up O
+up PhrasalVerb
 online O
 ) O
 . O
@@ -123363,7 +123384,7 @@ end O
 I O
 picked O
 it O
-up O
+up PhrasalVerb
 when O
 it O
 was O
@@ -123927,7 +123948,7 @@ technician O
 since Explanation
 it O
 came O
-out O
+out PhrasalVerb
 about Approximator
 $ O
 40 O
@@ -125921,7 +125942,7 @@ competition O
 - O
 despite Circumstance
 falling O
-down O
+down PhrasalVerb
 
 29. O
 Put O
@@ -126102,7 +126123,7 @@ promise O
 to O
 proper O
 set O
-up O
+up PhrasalVerb
 furniture O
 . O
 
@@ -126510,7 +126531,7 @@ off O
 
 The O
 mark O
-up O
+up PhrasalVerb
 is O
 minimal O
 considering O
@@ -128648,7 +128669,7 @@ to O
 say O
 check O
 them O
-out O
+out PhrasalVerb
 just O
 for Purpose
 the O
@@ -129866,7 +129887,7 @@ business O
 with Attribute
 that O
 stuck O
-up O
+up PhrasalVerb
 attitude O
 Dr. O
 Shady O
@@ -130251,7 +130272,7 @@ those O
 Liberty O
 construction O
 shows O
-up O
+up PhrasalVerb
 and O
 it O
 's O
@@ -131418,7 +131439,7 @@ wanting Goal
 
 They O
 set O
-out O
+out PhrasalVerb
 to O
 exceed O
 your O
@@ -131952,8 +131973,6 @@ company O
 behind Agent
 the O
 production. O
-
-up ValueComparison
 
 Transit O
 has O
@@ -133185,7 +133204,7 @@ to EndTime
 my O
 regrettable O
 check O
-out O
+out PhrasalVerb
 I O
 found O
 the O
@@ -133557,7 +133576,7 @@ i O
 could O
 suck O
 it O
-up O
+up PhrasalVerb
 but O
 1 O
 day O
@@ -134390,8 +134409,8 @@ just O
 does O
 nt O
 make O
-up O
-for O
+up PhrasalVerb
+for Theme
 the O
 lack O
 - O
@@ -134461,7 +134480,7 @@ mac O
 and O
 cheese O
 ended O
-up O
+up PhrasalVerb
 having O
 to O
 use O
@@ -140809,7 +140828,7 @@ and O
 The O
 total O
 built O
-up O
+up PhrasalVerb
 area O
 
 China) O
@@ -142216,7 +142235,7 @@ he O
 got O
 me O
 set O
-up O
+up PhrasalVerb
 and O
 I O
 test O
@@ -142227,7 +142246,7 @@ and O
 I O
 fell O
 head O
-over O
+over Idiom
 heels O
 for Stimulus
 this O
@@ -142269,7 +142288,7 @@ Mayor O
 Rahm O
 
 Turns O
-out O
+out PhrasalVerb
 the O
 engine O
 had O
@@ -142415,8 +142434,8 @@ the O
 Rafflecopter O
 widget O
 below Location
-for O
-up O
+for Value
+$10 O
 
 Shakespearean O
 play O
@@ -142577,7 +142596,7 @@ will O
 help O
 
 Coming O
-up O
+up PhrasalVerb
 A O
 few O
 must O
@@ -143581,7 +143600,7 @@ our O
 place O
 and O
 sorted O
-out O
+out PhrasalVerb
 our O
 car O
 s O
@@ -144157,7 +144176,7 @@ try O
 to O
 cover O
 it O
-up O
+up PhrasalVerb
 . O
 
 El O
@@ -144387,7 +144406,7 @@ dangerous O
 
 that O
 cuts O
-down O
+down PhrasalVerb
 on Theme
 teh O
 wait O
@@ -145484,7 +145503,7 @@ THIS O
 HOT O
 CHICK O
 SHOWS O
-UP O
+UP PhrasalVerb
 AND O
 i O
 MEAN O
@@ -145680,7 +145699,7 @@ stayed O
 , O
 we O
 cut O
-out O
+out PhrasalVerb
 stay O
 short O
 and O
@@ -147277,6 +147296,8 @@ one O
 grey, O
 walk O
 up 1DTrajectory
+the O
+stairs O
 
 ( O
 By Agent
@@ -147525,7 +147546,7 @@ pitfalls O
 before RelativeTime
 I O
 pulled O
-out O
+out PhrasalVerb
 this O
 tile O
 and O
@@ -147640,7 +147661,7 @@ came O
 in O
 to Purpose
 pick O
-up O
+up PhrasalVerb
 the O
 car O
 . O
@@ -148058,7 +148079,7 @@ chaos O
 lose O
 final O
 warm O
-up O
+up PhrasalVerb
 match O
 Scotland's O
 cricketers O
@@ -148678,7 +148699,7 @@ their O
 other O
 rooms O
 fill O
-up O
+up PhrasalVerb
 and O
 would O
 not O
@@ -149481,7 +149502,7 @@ end O
 
 I O
 walked O
-out O
+out PhrasalVerb
 with Attribute
 5 O
 inch O
@@ -150582,7 +150603,7 @@ and O
 cussing O
 I O
 hung O
-up O
+up PhrasalVerb
 , O
 grabbed O
 a O
@@ -153120,7 +153141,7 @@ anxiety. O
 
 wider O
 roll O
-out O
+out PhrasalVerb
 
 Except Elements
 
@@ -155684,7 +155705,7 @@ every O
 thing O
 was O
 cleaned O
-up O
+up PhrasalVerb
 and O
 hauled O
 off O
@@ -156820,7 +156841,7 @@ PetroVietnam O
 is O
 considering O
 pulling O
-out O
+out PhrasalVerb
 
 accounts O
 are O
@@ -157451,7 +157472,7 @@ lodge O
 . O
 
 Check O
-out O
+out PhrasalVerb
 their O
 wine O
 tastings O
@@ -158108,7 +158129,7 @@ net O
 a O
 chemical O
 made O
-up O
+up PhrasalVerb
 
 Old O
 Summer O
@@ -158891,7 +158912,7 @@ and O
 had O
 them O
 break O
-down O
+down PhrasalVerb
 and O
 tell O
 the O
@@ -158981,7 +159002,7 @@ A O
 mortar O
 round O
 sticks O
-out O
+out PhrasalVerb
 
 Across Location
 the O
@@ -159525,7 +159546,7 @@ input O
 and O
 they O
 make O
-up O
+up PhrasalVerb
 rediculous O
 rules O
 ( O
@@ -160946,7 +160967,7 @@ the O
 final O
 round O
 turned O
-out O
+out PhrasalVerb
 
 U.S. O
 crude O
@@ -161028,7 +161049,7 @@ and O
 Fuji O
 Sushi O
 came O
-up O
+up PhrasalVerb
 and O
 reviews O
 were O
@@ -161038,7 +161059,7 @@ I O
 made O
 a O
 carry O
-out O
+out PhrasalVerb
 order O
 of Theme
 : O
@@ -162881,7 +162902,7 @@ to O
 have O
 to O
 put O
-up O
+up PhrasalVerb
 with O
 this O
 unfair O
@@ -164962,7 +164983,7 @@ A O
 girl O
 would O
 show O
-up O
+up PhrasalVerb
 , O
 then O
 a O
@@ -164973,7 +164994,7 @@ nice O
 car O
 would O
 show O
-up O
+up PhrasalVerb
 . O
 
 the O
@@ -166839,7 +166860,7 @@ was O
 the O
 other O
 way O
-around O
+around Idiom
 . O
 
 bill O
@@ -167755,7 +167776,7 @@ Youngblood O
 Snapchat, O
 including Superset
 hanging O
-out O
+out PhrasalVerb
 
 sciatica', O
 it O
@@ -168291,7 +168312,7 @@ with Theme
 my O
 account O
 set O
-up O
+up PhrasalVerb
 . O
 
 comic O
@@ -168738,7 +168759,7 @@ stay O
 and O
 I O
 found O
-out O
+out PhrasalVerb
 that O
 the O
 front O
@@ -170651,7 +170672,7 @@ less O
 our O
 job O
 cut O
-out Idiom
+out PhrasalVerb
 
 Everyone O
 that O
@@ -173617,7 +173638,7 @@ belt O
 to O
 back O
 it O
-up O
+up PhrasalVerb
 ! O
 
 continue O
@@ -175082,13 +175103,13 @@ they O
 would O
 be O
 up Location
-to O
+to Purpose
 pick O
 the O
 dresser O
 and O
 chest O
-of O
+of Elements
 drawers O
 at Time
 some O
@@ -175702,13 +175723,6 @@ over Duration
 the O
 coming O
 few O
-
-the O
-Rafflecopter O
-widget O
-below Location
-for O
-up O
 
 recommended O
 the O
@@ -176607,7 +176621,7 @@ now O
 capable O
 of O
 picking O
-up O
+up PhrasalVerb
 new O
 songs O
 off Source
@@ -176931,7 +176945,7 @@ have O
 
 It O
 turned O
-out O
+out PhrasalVerb
 being O
 very O
 good O
@@ -177274,7 +177288,7 @@ n't O
 see O
 them O
 drving O
-up O
+up Location
 , O
 and O
 they O
@@ -177294,7 +177308,7 @@ use O
 . O
 
 Wake O
-Up O
+Up PhrasalVerb
 
 often O
 consider O
@@ -177894,7 +177908,7 @@ thumbs O
 way O
 , O
 way O
-up O
+up Direction
 ! O
 
 cheer O
@@ -178465,7 +178479,7 @@ an O
 area O
 to Function
 sit O
-down O
+down PhrasalVerb
 and O
 talk O
 with Co-Agent
@@ -179524,7 +179538,7 @@ in Location
 the O
 car O
 goes O
-out O
+out PhrasalVerb
 . O
 
 and O
@@ -183316,7 +183330,7 @@ Another O
 asteroid, O
 
 Wake O
-up O
+up PhrasalVerb
 
 Carl O
 walked O
@@ -183442,7 +183456,7 @@ I O
 came O
 to Purpose
 find O
-out O
+out PhrasalVerb
 the O
 person O
 was O
@@ -186045,7 +186059,7 @@ was O
 time O
 to O
 grow O
-up O
+up PhrasalVerb
 and O
 made O
 an O
@@ -186913,7 +186927,7 @@ months O
 Casper O
 Smart O
 turned O
-out Idiom
+out PhrasalVerb
 
 and O
 freezing O
@@ -187419,7 +187433,7 @@ daughter O
 over Direction
 to Purpose
 check O
-out O
+out PhrasalVerb
 a O
 pre-owned O
 2009 O
@@ -187909,7 +187923,7 @@ at Activity
 getting O
 your O
 order O
-out O
+out PhrasalVerb
 to Recipient
 you O
 . O
@@ -188116,7 +188130,7 @@ injured. O
 potentially O
 pull O
 you O
-out Idiom
+out PhrasalVerb
 
 next O
 year O
@@ -188763,7 +188777,7 @@ You O
 and O
 it O
 started O
-out O
+out PhrasalVerb
 as Attribute
 a O
 decent O
@@ -190383,7 +190397,7 @@ I O
 could O
 track O
 people O
-down O
+down PhrasalVerb
 one O
 by O
 one O
@@ -193003,7 +193017,7 @@ around Location
 to Purpose
 help O
 me O
-out O
+out PhrasalVerb
 when O
 needed O
 . O
@@ -195931,7 +195945,7 @@ However O
 when O
 he O
 printed O
-out O
+out PhrasalVerb
 the O
 service O
 quote O
@@ -198088,7 +198102,7 @@ January O
 We O
 were O
 signed O
-up O
+up PhrasalVerb
 for Theme
 Saturday O
 's O
@@ -198181,7 +198195,7 @@ Too O
 bad O
 they O
 were O
-out O
+out State
 of O
 the O
 Chocolate O
@@ -198496,7 +198510,7 @@ minutes O
 to Purpose
 simply O
 pick O
-up O
+up PhrasalVerb
 an O
 order O
 . O
@@ -199273,7 +199287,7 @@ busy O
 terminal O
 
 Rusted O
-out O
+out PhrasalVerb
 and O
 unsafe O
 cars O
@@ -199945,7 +199959,7 @@ are O
 serious O
 about Topic
 working O
-out O
+out PhrasalVerb
 in Location
 a O
 non-commercial O
@@ -200853,7 +200867,7 @@ drop O
 off O
 and O
 pick O
-up O
+up PhrasalVerb
 . O
 
 freedom O
@@ -201595,7 +201609,7 @@ time O
 when O
 we O
 picked O
-up O
+up PhrasalVerb
 the O
 car O
 , O
@@ -201644,8 +201658,6 @@ wore O
 down PhrasalVerb
 internal O
 opposition O
-
-up ValueComparison
 
 go O
 far O
@@ -202293,7 +202305,7 @@ entities O
 $80 O
 USD O
 and O
-up O
+up ValueComparison
 Get O
 it O
 
@@ -203645,7 +203657,7 @@ We O
 had O
 to O
 throw O
-out O
+out PhrasalVerb
 about Approximator
 80 O
 percent O
@@ -204075,7 +204087,7 @@ information O
 Those O
 things O
 ended O
-up O
+up PhrasalVerb
 being O
 a O
 windsheild O
@@ -205721,7 +205733,9 @@ bookings O
 are O
 down State
 by O
-up O
+up ValueComparison
+to Extent
+50% O
 
 Afterward, O
 they O
@@ -206325,7 +206339,7 @@ scene O
 
 Twitter's O
 round O
-up O
+up PhrasalVerb
 
 Brand O
 Love O
@@ -206812,7 +206826,7 @@ was O
 able O
 to O
 make O
-up O
+up PhrasalVerb
 for O
 his O
 lack O
@@ -206840,3 +206854,17 @@ time O
 . O
 - O
 
+add O
+up PhrasalVerb
+
+add O
+up PhrasalVerb
+
+add O
+up PhrasalVerb
+
+add O
+up PhrasalVerb
+
+add O
+up PhrasalVerb
