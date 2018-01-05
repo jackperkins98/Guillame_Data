@@ -26,7 +26,7 @@ now O
 — O
 a O
 repository O
-for Beneficiary
+for Experiencer
 some O
 
 Especially O
@@ -241,7 +241,7 @@ the O
 highway O
 when O
 
-less O
+less Approximator
 debt, O
 more O
 cash O
@@ -572,7 +572,7 @@ change O
 
 Duke O
 University O
-for Beneficiary
+for Experiencer
 undergraduate O
 and O
 medical O
@@ -780,7 +780,7 @@ will O
 be O
 holding O
 it O
-for Beneficiary
+for Experiencer
 me O
 this O
 evening O
@@ -1056,7 +1056,7 @@ a O
 his O
 economic O
 plan O
-for Beneficiary
+for Experiencer
 the O
 Midlands O
 too. O
@@ -1484,7 +1484,7 @@ today's O
 'Green O
 News O
 
-anti Topic
+anti O
 money O
 laundering O
 oversight. O
@@ -1929,12 +1929,12 @@ own O
 Elephant O
 Branded's O
 bags O
-for Beneficiary
+for Experiencer
 schools O
 Rice O
 sacks O
 
-for Beneficiary
+for Experiencer
 Team O
 Fluff. O
 2015: O
@@ -2311,7 +2311,7 @@ age O
 40, O
 the O
 
-less O
+less Approximator
 punitive, O
 more O
 public-health-minded O
@@ -2678,7 +2678,7 @@ whopping O
 
 leisure O
 and O
-less O
+less Approximator
 jetting O
 
 hospital O
@@ -2705,6 +2705,7 @@ District O
 Attorney's O
 office, O
 along Accompanier
+with O
 
 the O
 U.S. O
@@ -3401,6 +3402,7 @@ Fey O
 and O
 Reiner, O
 along Accompanier
+with O
 
 oppose O
 air O
@@ -3718,7 +3720,7 @@ Fuji O
 belonging O
 which O
 is O
-lacking O
+lacking Attribute
 
 They O
 have O
@@ -3903,7 +3905,7 @@ removed O
 a O
 wasp O
 nest O
-for Beneficiary
+for Experiencer
 our O
 condominium O
 building O
@@ -4073,7 +4075,7 @@ quantity,” O
 Nunnally O
 
 $10 O
-for Beneficiary
+for Experiencer
 students O
 and O
 seniors. O
@@ -4203,6 +4205,7 @@ month, O
 was O
 seen O
 along Accompanier
+with O
 
 Marine O
 units O
@@ -4346,7 +4349,7 @@ happy O
 . O
 
 $15 O
-for Beneficiary
+for Experiencer
 health O
 care O
 workers O
@@ -4509,6 +4512,7 @@ is O
 
 Aamer, O
 along Accompanier
+with O
 
 one O
 recovered O
@@ -5076,10 +5080,10 @@ is O
 been O
 a O
 boon O
-for Beneficiary
+for Experiencer
 TLC O
 and O
-for Beneficiary
+for Experiencer
 
 Lynn's O
 accident O
@@ -5156,7 +5160,7 @@ he O
 15 O
 cool O
 gifts O
-for Beneficiary
+for Experiencer
 travelers O
 Need O
 gift O
@@ -5199,7 +5203,7 @@ throughout Duration
 history. O
 
 be O
-lacking O
+lacking Attribute
 teeth, O
 so O
 
@@ -5366,7 +5370,8 @@ failing O
 Affairs. O
 2009 O
 - O
-Along Accompanier
+along Accompanier
+with O
 
 minus Approximator
 30 O
@@ -6170,7 +6175,7 @@ truck O
 
 What O
 is O
-lacking O
+lacking Attribute
 is O
 some O
 fuel O
@@ -6783,7 +6788,7 @@ home O
 we O
 had O
 been O
-lacking O
+lacking Attribute
 goals, O
 
 journey, O
@@ -6869,7 +6874,7 @@ Monrovia O
 home O
 
 Zim O
-Anti Topic
+anti O
 Corruption O
 Commission O
 Body O
@@ -7264,7 +7269,7 @@ portrayal O
 
 Chad O
 Lieberman O
-Anti Topic
+anti O
 Aging O
 LLC O
 E-Mail: O
@@ -7444,7 +7449,7 @@ embedded O
 which O
 has O
 been O
-lacking O
+lacking Attribute
 
 crime O
 under Approximator
@@ -7671,7 +7676,7 @@ wheel. O
 outreach' O
 is O
 sorely O
-lacking O
+lacking Attribute
 
 became O
 more O
@@ -8064,6 +8069,7 @@ the O
 Blind O
 Cat, O
 along Accompanier
+with O
 
 All O
 that, O
@@ -8308,7 +8314,7 @@ ethical O
 obligations O
 
 a O
-less O
+less Approximator
 dramatic O
 effect. O
 
@@ -8740,7 +8746,7 @@ deadline. O
 
 15 O
 photos: O
-Inside Idiom
+inside Topic
 'CNN O
 Heroes: O
 An O
@@ -9060,7 +9066,7 @@ North O
 Street O
 
 be O
-lacking O
+lacking Attribute
 or O
 slow O
 
@@ -9110,7 +9116,7 @@ ruthless O
 teachers O
 often O
 expect O
-less O
+less Approximator
 of O
 students O
 
@@ -9537,7 +9543,7 @@ they O
 mathematics O
 were O
 so O
-lacking O
+lacking Attribute
 and O
 inferior O
 does O
@@ -10222,7 +10228,7 @@ one O
 interrupted O
 the O
 
-less O
+less Approximator
 cloistered O
 realms. O
 
@@ -10419,7 +10425,7 @@ posted O
 political O
 framework O
 is O
-lacking O
+lacking Attribute
 for O
 dealing O
 
@@ -10450,7 +10456,7 @@ where O
 is O
 the O
 lead O
-for Beneficiary
+for Experiencer
 The O
 Scotsman. O
 
@@ -10698,7 +10704,7 @@ NBC O
 spark O
 they O
 were O
-lacking O
+lacking Attribute
 
 know O
 about Topic
@@ -11376,7 +11382,7 @@ death. O
 I O
 was O
 desperately O
-lacking O
+lacking Attribute
 
 sheriff's O
 deputy O
@@ -11456,7 +11462,7 @@ for PhrasalVerb
 G7 O
 protestors. O
 
-anti Topic
+anti O
 aging, O
 let O
 your O
@@ -12776,7 +12782,7 @@ takes O
 
 all O
 the O
-anti Topic
+anti O
 gun O
 idiots. O
 
@@ -13733,6 +13739,7 @@ talent O
 management O
 suite O
 along Accompanier
+with O
 
 Comic O
 Sans O
@@ -14573,7 +14580,7 @@ drugs O
 its O
 vehicles O
 appear O
-less O
+less Approximator
 polluting O
 
 overlap O
@@ -15370,7 +15377,7 @@ has O
 African O
 Americans O
 are O
-less O
+less Approximator
 likely O
 
 enforces O
@@ -15673,7 +15680,7 @@ things O
 she O
 has O
 done O
-for Beneficiary
+for Experiencer
 me O
 and O
 my O
@@ -15682,7 +15689,7 @@ Gracee O
 . O
 
 an O
-anti Topic
+anti O
 island-airport O
 platform. O
 
@@ -15724,7 +15731,7 @@ weight O
 
 I O
 am O
-lacking O
+lacking Attribute
 certain O
 skills, O
 she O
@@ -16029,6 +16036,7 @@ Presidents O
 
 Abe, O
 along Accompanier
+with O
 
 seen O
 Friday O
@@ -16480,7 +16488,7 @@ mean? O
 devices O
 leaked O
 far O
-less O
+less Approximator
 info O
 than O
 their O
@@ -16606,7 +16614,7 @@ Bell O
 the O
 upgrade O
 is O
-less O
+less Approximator
 
 officers O
 were O

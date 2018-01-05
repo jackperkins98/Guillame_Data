@@ -895,7 +895,7 @@ fresh O
 and O
 PageFair, O
 an O
-anti Topic
+anti O
 ad-blocking O
 tech O
 company. O
@@ -998,7 +998,7 @@ Arizona’s O
 Saray, O
 is O
 no O
-less O
+less Approximator
 than O
 Kafka's O
 Castle O
@@ -1042,7 +1042,7 @@ cent O
 typically O
 paid O
 far O
-less O
+less Approximator
 than O
 full-time O
 faculty O
@@ -1124,6 +1124,7 @@ directions O
 All O
 Democrats, O
 along Accompanier
+with O
 
 expand O
 his O
@@ -1345,7 +1346,7 @@ side O
 an O
 unprecedented O
 look O
-inside Idiom
+inside Topic
 the O
 command O
 center O
@@ -1366,6 +1367,7 @@ Brown’s O
 boyfriend, O
 who O
 along Accompanier
+with O
 
 studies O
 a O
@@ -1485,7 +1487,7 @@ place O
 to Function
 grab O
 flowers O
-for Beneficiary
+for Experiencer
 friends O
 and O
 coworkers O
@@ -1634,7 +1636,7 @@ him. O
 debt, O
 which O
 leaves O
-less O
+less Approximator
 money O
 
 Islamic O
@@ -1941,7 +1943,7 @@ pending O
 well-being, O
 neighborhoods O
 experience O
-less O
+less Approximator
 criminal O
 activity. O
 
@@ -2515,7 +2517,7 @@ interest O
 Di O
 Matteo O
 is O
-lacking O
+lacking Attribute
 firepower O
 
 We O
@@ -2869,7 +2871,7 @@ relationship? O
 is O
 a O
 so-called O
-anti Topic
+anti O
 PD-1 O
 inhibitor, O
 which O
@@ -2997,6 +2999,7 @@ the O
 Secret O
 Service, O
 along Accompanier
+with O
 
 He O
 was O
@@ -3132,6 +3135,7 @@ was O
 later O
 arrested, O
 along Accompanier
+with O
 
 the O
 big O
@@ -3652,7 +3656,7 @@ nausea O
 financial O
 crisis, O
 no O
-less O
+less Approximator
 a O
 free-marketeer O
 than O
@@ -4542,10 +4546,10 @@ Failing O
 the O
 home O
 consumes O
-less O
+less Approximator
 energy, O
 costs O
-less O
+less Approximator
 
 Their O
 Food O
@@ -5304,6 +5308,7 @@ taking O
 the O
 media O
 along Accompanier
+with O
 
 feel O
 the O
@@ -5975,7 +5980,7 @@ protection O
 helicopter O
 is O
 far O
-less O
+less Approximator
 expensive, O
 at O
 
@@ -6135,6 +6140,7 @@ permission O
 the O
 source, O
 along Accompanier
+with O
 
 US O
 policy O
@@ -6353,7 +6359,7 @@ Wednesday. O
 
 was O
 completely O
-lacking O
+lacking Attribute
 
 3:10 O
 Now O
@@ -6540,7 +6546,7 @@ fell O
 have O
 celebrities O
 endorsed O
-for Beneficiary
+for Experiencer
 the O
 2016 O
 election? O
@@ -6985,6 +6991,7 @@ sum O
 military O
 personnel, O
 along Accompanier
+with O
 
 identify O
 any O
@@ -7857,7 +7864,7 @@ up PhrasalVerb
 coffee O
 drinkers O
 were O
-less O
+less Approximator
 likely O
 
 staff O
@@ -7952,6 +7959,7 @@ Flyers. O
 drug O
 companies, O
 along Accompanier
+with O
 
 the O
 pending O
@@ -8893,6 +8901,7 @@ chances O
 soccer O
 uniforms O
 along Accompanier
+with O
 
 the O
 ground, O
@@ -9005,6 +9014,7 @@ New O
 
 sale, O
 along Accompanier
+with O
 
 Syrian O
 refugees O
@@ -9325,7 +9335,7 @@ surface O
 that O
 appeared O
 sadly O
-lacking O
+lacking Attribute
 
 year O
 since StartTime
@@ -9463,7 +9473,7 @@ year O
 U.S. O
 is O
 badly O
-lacking O
+lacking Attribute
 
 upon Explanation
 the O
@@ -9676,7 +9686,7 @@ it. O
 is O
 not O
 really O
-lacking O
+lacking Attribute
 
 (1992) O
 The O
@@ -10026,8 +10036,9 @@ till EndTime
 
 December, O
 along Accompanier
+with O
 
-less O
+less Approximator
 urgent O
 emails. O
 
@@ -10637,7 +10648,7 @@ the O
 city. O
 
 even O
-less O
+less Approximator
 good O
 will O
 
@@ -11800,7 +11811,7 @@ and O
 payments O
 have O
 been O
-less O
+less Approximator
 successful. O
 
 attacks O
@@ -12049,7 +12060,7 @@ only O
 this O
 work O
 is O
-for Beneficiary
+for Experiencer
 these O
 grandmothers, O
 says O
@@ -12212,7 +12223,7 @@ over O
 found O
 the O
 appeal O
-lacking O
+lacking Attribute
 
 care O
 since StartTime
@@ -12898,7 +12909,7 @@ average O
 below ValueComparison
 45 O
 
-less O
+less Approximator
 money. O
 
 said: O
@@ -13087,10 +13098,10 @@ inches O
 the O
 great O
 society O
-for Beneficiary
+for Experiencer
 themselves O
 and O
-for Beneficiary
+for Experiencer
 
 their O
 front O
@@ -13182,6 +13193,7 @@ doctors O
 and O
 family, O
 along Accompanier
+with O
 
 I O
 moved O
@@ -13731,6 +13743,7 @@ luck O
 
 theme, O
 along Accompanier
+with O
 
 taken O
 legal O
@@ -14307,7 +14320,7 @@ this O
 is O
 the O
 company O
-for Beneficiary
+for Experiencer
 you O
 . O
 
@@ -14901,7 +14914,7 @@ help O
 
 A O
 look O
-inside Idiom
+inside Topic
 the O
 Crossrail O
 project O
@@ -15306,7 +15319,7 @@ were O
 it O
 has O
 received O
-less O
+less Approximator
 attention, O
 it O
 would O
@@ -15674,7 +15687,7 @@ highways? O
 carefully O
 polished O
 and O
-lacking O
+lacking Attribute
 
 the O
 above O
@@ -15735,7 +15748,7 @@ unlike Comparison/Contrast
 doesn't O
 mean O
 it's O
-lacking O
+lacking Attribute
 
 10 O
 per Value
@@ -16274,7 +16287,7 @@ your O
 tip O
 
 stepping O
-inside Idiom
+inside Topic
 the O
 shoes O
 
@@ -16584,6 +16597,7 @@ criminals O
 are O
 enshrined O
 along Accompanier
+with O
 
 an O
 email O
@@ -16871,6 +16885,7 @@ face O
 drug O
 charges, O
 along Accompanier
+with O
 
 1.3 O
 per Value
@@ -17077,7 +17092,7 @@ probed O
 photos: O
 The O
 yakuza: O
-Inside Idiom
+inside Topic
 Japan's O
 murky O
 criminal O
@@ -17092,7 +17107,7 @@ feet O
 totally O
 and O
 absolutely O
-anti Topic
+anti O
 Venezuelan O
 and O
 full O
@@ -17100,7 +17115,7 @@ full O
 stop O
 running O
 is O
-less O
+less Approximator
 likely. O
 
 Americans O
@@ -18663,7 +18678,7 @@ five-year O
 there O
 who O
 are O
-lacking O
+lacking Attribute
 
 202 O
 diagnosed O
@@ -19290,7 +19305,7 @@ disruption O
 
 more O
 fiber, O
-less O
+less Approximator
 sugar, O
 and O
 fewer O
@@ -19673,7 +19688,7 @@ year. O
 region O
 has O
 done O
-less O
+less Approximator
 to O
 contribute O
 
@@ -19920,7 +19935,7 @@ home O
 where O
 supply O
 is O
-lacking O
+lacking Attribute
 most. O
 
 careers O
@@ -20354,6 +20369,7 @@ the O
 two O
 competitors, O
 along Accompanier
+with O
 
 an O
 ad O
@@ -20418,7 +20434,7 @@ failing O
 its O
 experts O
 burrowed O
-inside Idiom
+inside Topic
 the O
 hacker O
 group's O
@@ -20862,7 +20878,7 @@ wildest O
 imagination? O
 
 clearly O
-lacking O
+lacking Attribute
 
 a O
 matter O
@@ -20948,6 +20964,7 @@ pace O
 the O
 measure, O
 along Accompanier
+with O
 
 the O
 fourth O
@@ -21322,7 +21339,7 @@ University O
 BBC O
 Local O
 Live O
-for Beneficiary
+for Experiencer
 Oxfordshire O
 this O
 rather O
@@ -21414,7 +21431,7 @@ access O
 has O
 previously O
 been O
-lacking O
+lacking Attribute
 
 Tory O
 welfare O
@@ -22321,6 +22338,7 @@ island O
 theme O
 park O
 along Accompanier
+with O
 
 the O
 one O
@@ -22451,7 +22469,7 @@ optics O
 unprofessional O
 behavior O
 and O
-less O
+less Approximator
 likely O
 
 and O
@@ -22530,7 +22548,7 @@ is O
 not O
 the O
 place O
-for Beneficiary
+for Experiencer
 you O
 . O
 
@@ -23433,7 +23451,7 @@ since StartTime
 and O
 
 08:43: O
-Inside Idiom
+inside Topic
 the O
 Commons O
 BBC O
@@ -23743,6 +23761,7 @@ plot O
 his O
 escape, O
 along Accompanier
+with O
 
 am O
 deeply O
@@ -24029,7 +24048,7 @@ was O
 bit O
 
 export O
-less O
+less Approximator
 
 hat O
 are O
@@ -24094,7 +24113,7 @@ impact O
 shopping O
 season O
 is O
-less O
+less Approximator
 important O
 
 it O
@@ -24246,7 +24265,7 @@ allies. O
 shopping O
 is O
 eating O
-less O
+less Approximator
 red O
 meat, O
 he O
@@ -24361,6 +24380,7 @@ people O
 refuse O
 service, O
 along Accompanier
+with O
 
 implement O
 trail O
@@ -24823,7 +24843,7 @@ campaign O
 are O
 many O
 times O
-lacking O
+lacking Attribute
 the O
 services, O
 and O
@@ -25301,7 +25321,7 @@ talking O
 Trans-Am O
 
 sell O
-less O
+less Approximator
 
 Crimea O
 last O
@@ -25338,7 +25358,7 @@ $ O
 spending O
 $365 O
 million O
-less O
+less Approximator
 per O
 day O
 
@@ -25777,7 +25797,7 @@ month O
 away O
 
 Also O
-less O
+less Approximator
 attractive. O
 
 was O
@@ -26160,7 +26180,7 @@ wanting Goal
 which O
 is O
 often O
-lacking O
+lacking Attribute
 or O
 inefficient O
 
@@ -26894,7 +26914,7 @@ tanks O
 says O
 fawns O
 are O
-less O
+less Approximator
 likely O
 
 All O
@@ -27932,7 +27952,7 @@ ago DeicticTime
 the O
 tourist O
 sector O
-for Beneficiary
+for Experiencer
 Tunisia. O
 
 often O
@@ -28131,7 +28151,7 @@ Gallery O
 ! O
 
 eat O
-less O
+less Approximator
 meat: O
 ethics. O
 
@@ -28520,6 +28540,7 @@ speak O
 French O
 -- O
 along Accompanier
+with O
 
 In Circumstance
 accordance O
@@ -28549,6 +28570,7 @@ Notley O
 is O
 there, O
 along Accompanier
+with O
 
 students' O
 pending O
@@ -28648,7 +28670,7 @@ where O
 the O
 system O
 was O
-lacking O
+lacking Attribute
 — O
 it O
 didn't O
@@ -28985,7 +29007,7 @@ divorce, O
 travel O
 and O
 weather O
-for Beneficiary
+for Experiencer
 Birmingham O
 and O
 the O
@@ -29071,7 +29093,7 @@ dollar. O
 catastrophic O
 situation O
 slightly O
-less O
+less Approximator
 awful. O
 
 “Rewind” O
@@ -30011,7 +30033,7 @@ caught O
 Akkash, O
 however, O
 sounded O
-less O
+less Approximator
 categorical. O
 
 her O
@@ -30358,7 +30380,7 @@ Osweiler O
 
 school O
 maybe O
-less O
+less Approximator
 likely O
 
 police O
@@ -30862,7 +30884,7 @@ you O
 want O
 the O
 best O
-for Beneficiary
+for Experiencer
 your O
 child O
 , O
@@ -32036,7 +32058,7 @@ get O
 exec O
 put O
 it O
-less O
+less Approximator
 charitably: O
 All O
 the O
@@ -32072,7 +32094,7 @@ media's O
 graveyard O
 becomes O
 home O
-for Beneficiary
+for Experiencer
 families O
 Economic O
 divide O
@@ -32145,7 +32167,7 @@ out State
 Susan O
 Frierson, O
 sustained O
-less O
+less Approximator
 serious O
 injuries O
 
@@ -32377,7 +32399,7 @@ by Agent
 the O
 Bears O
 
-anti Topic
+anti O
 gay O
 legislation. O
 
@@ -32395,7 +32417,7 @@ pictures O
 that O
 he O
 took O
-for Beneficiary
+for Experiencer
 us O
 we O
 absolutely O
@@ -32510,6 +32532,7 @@ Fire O
 Department O
 firefighters O
 along Accompanier
+with O
 
 a O
 forehand O
@@ -32692,7 +32715,7 @@ information O
 restaurants, O
 yet O
 they're O
-lacking O
+lacking Attribute
 
 smooth O
 drastic O
@@ -33094,7 +33117,7 @@ up PhrasalVerb
 result O
 they O
 have O
-less O
+less Approximator
 good O
 prospects O
 
@@ -33214,7 +33237,7 @@ part O
 that O
 is O
 somehow O
-lacking O
+lacking Attribute
 in O
 subtlety O
 
@@ -33344,7 +33367,7 @@ prices O
 photos: O
 Making O
 waves: O
-Inside Idiom
+inside Topic
 the O
 Royal O
 Yacht O
@@ -33410,7 +33433,7 @@ that O
 thing O
 that O
 was O
-lacking O
+lacking Attribute
 was O
 the O
 mental O
@@ -33517,7 +33540,7 @@ instability, O
 bowling O
 attack O
 was O
-lacking O
+lacking Attribute
 injured O
 paceman O
 Dale O
@@ -33908,7 +33931,7 @@ addition O
 patients O
 are O
 paying O
-less O
+less Approximator
 than O
 they O
 would O
@@ -34625,6 +34648,7 @@ reductions O
 the O
 market O
 along Accompanier
+with O
 
 those O
 who O
@@ -34975,7 +34999,7 @@ is O
 you O
 have O
 chosen O
-for Beneficiary
+for Experiencer
 this O
 book? O
 
@@ -35264,7 +35288,7 @@ fun O
 seeing O
 
 the O
-less O
+less Approximator
 fortunate. O
 
 failing O
@@ -35615,6 +35639,7 @@ licence O
 fee O
 funding, O
 along Accompanier
+with O
 
 Portland O
 recorded O
@@ -35809,13 +35834,13 @@ whether O
 length O
 and O
 generally O
-less O
+less Approximator
 damaging O
 
 that O
 we O
 are O
-lacking O
+lacking Attribute
 a O
 cutting O
 edge, O
@@ -35871,7 +35896,7 @@ looked O
 
 A O
 look O
-inside Idiom
+inside Topic
 Pyongyang O
 orphanage O
 9 O
@@ -36125,7 +36150,7 @@ ahead O
 made O
 the O
 journey O
-inside Idiom
+inside Topic
 the O
 minds O
 and O
@@ -36288,7 +36313,7 @@ must O
 
 16 O
 photos: O
-Inside Idiom
+inside Topic
 Syria: O
 Roadtrip O
 
@@ -37565,7 +37590,7 @@ pay O
 Whatever O
 may O
 be O
-lacking O
+lacking Attribute
 is O
 
 My O
@@ -38352,6 +38377,7 @@ the O
 United O
 States, O
 along Accompanier
+with O
 
 arrows O
 pointing O
@@ -38923,7 +38949,7 @@ area O
 photos: O
 CNN O
 exclusive: O
-Inside Idiom
+inside Topic
 U.S.-South O
 Korea O
 annual O
@@ -39223,6 +39249,7 @@ years. O
 interviewing O
 her O
 along Accompanier
+with O
 
 visit O
 a O
@@ -39546,7 +39573,7 @@ Avenue, O
 Kingston O
 
 being O
-less O
+less Approximator
 than O
 perfect. O
 
@@ -40710,7 +40737,7 @@ know O
 No O
 More, O
 an O
-anti Topic
+anti O
 domestic O
 abuse O
 advocacy O
@@ -41176,7 +41203,7 @@ ships O
 say O
 they O
 think O
-less O
+less Approximator
 
 candidates O
 who O
@@ -41551,7 +41578,7 @@ end. O
 they O
 spend O
 significantly O
-less O
+less Approximator
 
 Apple O
 before RelativeTime
@@ -41570,7 +41597,7 @@ and O
 pass O
 coverage O
 was O
-lacking O
+lacking Attribute
 and O
 was O
 exploited O
@@ -41632,7 +41659,7 @@ failing O
 has O
 also O
 been O
-lacking O
+lacking Attribute
 when O
 it O
 comes O
@@ -42109,6 +42136,7 @@ wanting Goal
 
 Friday, O
 along Accompanier
+with O
 
 gun O
 towers O
@@ -42128,7 +42156,7 @@ combined. O
 captured O
 the O
 battle O
-for Beneficiary
+for Experiencer
 Saigon O
 
 never O
@@ -42844,7 +42872,7 @@ them O
 which O
 worked O
 great O
-for Beneficiary
+for Experiencer
 us O
 because O
 we O
@@ -44452,7 +44480,7 @@ early O
 13th O
 
 A O
-less O
+less Approximator
 volatile O
 measure O
 
@@ -45015,12 +45043,12 @@ each O
 a O
 charm O
 completely O
-lacking O
+lacking Attribute
 
 high-risk O
 patients O
 was O
-lacking O
+lacking Attribute
 
 Instead O
 women O
@@ -45583,6 +45611,7 @@ Leadership O
 Council O
 came O
 along Accompanier
+with O
 
 than O
 any O
@@ -45811,7 +45840,7 @@ wanting Goal
 Minutes O
 is O
 going O
-inside Idiom
+inside Topic
 Apple's O
 'secret' O
 design O
@@ -45898,7 +45927,7 @@ it. O
 called O
 it O
 nothing O
-less O
+less Approximator
 than O
 cultural O
 genocide. O
@@ -46163,7 +46192,7 @@ part O
 vital O
 resources O
 were O
-lacking O
+lacking Attribute
 
 A O
 plus O
@@ -46318,7 +46347,7 @@ else. O
 again, O
 Kealoha O
 is O
-lacking O
+lacking Attribute
 
 all O
 U.S. O
@@ -46503,7 +46532,7 @@ manes O
 month O
 will O
 be O
-lacking O
+lacking Attribute
 
 Additionally, O
 RTX O
@@ -46630,6 +46659,7 @@ Sayyaf O
 was O
 killed, O
 along Accompanier
+with O
 
 develop O
 Ebola O
@@ -46694,7 +46724,7 @@ most O
 respected O
 
 a O
-less O
+less Approximator
 than O
 qualified O
 lawyer, O
@@ -47401,7 +47431,7 @@ held, O
 think O
 we O
 are O
-lacking O
+lacking Attribute
 
 fairly O
 sure O
@@ -47434,6 +47464,7 @@ musical O
 or O
 comedy O
 along Accompanier
+with O
 
 Alongside Accompanier
 the O
@@ -47679,7 +47710,7 @@ helps O
 Although O
 a O
 new, O
-less O
+less Approximator
 divisive O
 regime O
 is O
@@ -47695,7 +47726,7 @@ Wearing O
 the O
 interest O
 is O
-lacking O
+lacking Attribute
 
 The O
 EU O
@@ -47995,7 +48026,7 @@ has O
 more O
 
 be O
-lacking O
+lacking Attribute
 
 45-day O
 period O
@@ -48279,7 +48310,7 @@ lives O
 they O
 can O
 become O
-less O
+less Approximator
 reactive O
 
 Round O
@@ -48517,6 +48548,7 @@ a O
 
 Antalya O
 along Accompanier
+with O
 
 the O
 red O
@@ -48965,7 +48997,7 @@ amidst Circumstance
 much O
 excitement O
 
-less O
+less Approximator
 than O
 definitive, O
 charitable O
@@ -49037,7 +49069,7 @@ lawsuit, O
 And O
 accountability O
 is O
-lacking O
+lacking Attribute
 
 safer O
 places O
@@ -49554,7 +49586,7 @@ Monday. O
 recently O
 put O
 Netflix's O
-lacking O
+lacking Attribute
 accessibility O
 options O
 
@@ -49682,7 +49714,7 @@ Up ProfessionalAspect
 for O
 Auction O
 
-less O
+less Approximator
 damage O
 
 Sanders O
@@ -49822,7 +49854,7 @@ years O
 Robinson O
 admits O
 the O
-anti Topic
+anti O
 Harper O
 vote O
 — O
@@ -50375,7 +50407,7 @@ was O
 here O
 are O
 not O
-lacking O
+lacking Attribute
 
 didn't O
 touch O
@@ -50387,6 +50419,7 @@ was O
 the O
 Gathrights O
 along Accompanier
+with O
 
 And O
 this O
@@ -50646,7 +50679,7 @@ attacks. O
 
 A O
 look O
-inside Idiom
+inside Topic
 the O
 world O
 
@@ -50775,6 +50808,7 @@ its O
 listed O
 status, O
 along Accompanier
+with O
 
 I O
 can O
@@ -50893,6 +50927,7 @@ key O
 market O
 players O
 along Accompanier
+with O
 
 4.0 O
 seconds O
@@ -51335,7 +51370,7 @@ tensions, O
 the O
 ZX9R O
 is O
-lacking O
+lacking Attribute
 in O
 torque O
 
@@ -52277,6 +52312,7 @@ ability O
 
 impunity O
 along Accompanier
+with O
 
 pending O
 sales O
@@ -52445,6 +52481,7 @@ remained O
 closed O
 Monday, O
 along Accompanier
+with O
 
 write O
 down PhrasalVerb
@@ -52550,7 +52587,7 @@ day O
 
 16 O
 photos: O
-Inside Idiom
+inside Topic
 'CNN O
 Heroes: O
 An O
@@ -53522,7 +53559,7 @@ currently O
 which O
 were O
 often O
-lacking O
+lacking Attribute
 in O
 features, O
 
@@ -53534,6 +53571,7 @@ app, O
 Corner O
 Brook, O
 along Accompanier
+with O
 
 to Duration
 )-- O
@@ -54197,6 +54235,7 @@ confirmed O
 that O
 Blatter, O
 along Accompanier
+with O
 
 a O
 wooden O
@@ -54891,7 +54930,7 @@ now. O
 all O
 seem O
 distinctly O
-lacking O
+lacking Attribute
 
 Excluding Elements
 one-time O
@@ -55469,6 +55508,7 @@ South O
 Ossetia O
 — O
 along Accompanier
+with O
 
 tree O
 branch O
@@ -55618,7 +55658,7 @@ river O
 who O
 are O
 simply O
-lacking O
+lacking Attribute
 any O
 basic O
 grounding O
@@ -55697,7 +55737,7 @@ it. O
 dementia O
 may O
 show O
-less O
+less Approximator
 emotion O
 than O
 was O
@@ -56014,7 +56054,7 @@ operations, O
 
 1977, O
 the O
-less O
+less Approximator
 welcome O
 you O
 are O
@@ -56033,7 +56073,7 @@ direction. O
 Marketo's O
 offering, O
 though O
-less O
+less Approximator
 than O
 Salesforce O
 
@@ -56108,7 +56148,7 @@ address O
 airplane O
 combined O
 has O
-less O
+less Approximator
 CO2 O
 and O
 methane O
@@ -56647,11 +56687,13 @@ FBI. O
 the O
 skull, O
 along Accompanier
+with O
 
 domestically O
 and O
 globally, O
 along Accompanier
+with O
 
 woman O
 is O
@@ -56675,7 +56717,7 @@ databases.” O
 production O
 may O
 be O
-lacking O
+lacking Attribute
 
 power O
 lines O
@@ -56712,7 +56754,7 @@ who O
 will O
 do O
 nothing O
-for Beneficiary
+for Experiencer
 you O
 . O
 
@@ -58052,7 +58094,7 @@ guys O
 . O
 
 are O
-lacking O
+lacking Attribute
 
 there O
 will O
@@ -58190,6 +58232,7 @@ he O
 was O
 instrumental, O
 along Accompanier
+with O
 
 troops O
 were O
@@ -58337,7 +58380,7 @@ road. O
 also O
 have O
 been O
-less O
+less Approximator
 disruptive O
 than O
 Cruz’s. O
@@ -58860,7 +58903,7 @@ chickens O
 3. O
 They O
 have O
-less O
+less Approximator
 Twitter O
 and O
 Facebook O
@@ -59046,6 +59089,7 @@ own O
 eating O
 utensils O
 along Accompanier
+with O
 
 Not O
 only O
@@ -59328,7 +59372,7 @@ hassle O
 troops O
 look O
 far O
-less O
+less Approximator
 sturdy. O
 
 -- O
@@ -59905,7 +59949,7 @@ average O
 Canadians, O
 we O
 have O
-less O
+less Approximator
 money O
 
 three O
@@ -60532,6 +60576,7 @@ record, O
 schooling, O
 which, O
 along Accompanier
+with O
 
 Failing O
 
@@ -60675,7 +60720,7 @@ years O
 character: O
 underwritten, O
 inconsistent, O
-lacking O
+lacking Attribute
 
 flag O
 was O
@@ -61183,6 +61228,7 @@ center O
 southwestern O
 Ontario, O
 along Accompanier
+with O
 
 million O
 or O
@@ -61366,7 +61412,7 @@ career O
 outside Elements
 
 Police, O
-Anti Topic
+anti O
 Terrorism O
 Squad O
 (M. O
@@ -61491,6 +61537,7 @@ success O
 that O
 came O
 along Accompanier
+with O
 
 Alan O
 Grissom O
@@ -62022,7 +62069,7 @@ pioneering O
 new O
 whitening O
 
-Anti Topic
+anti O
 Social O
 Media O
 certainly O
@@ -62162,7 +62209,7 @@ that, O
 he O
 added, O
 
-less O
+less Approximator
 fancy. O
 
 Above Location
@@ -62339,7 +62386,7 @@ India O
 Package O
 for Value
 very O
-less O
+less Approximator
 price O
 . O
 
@@ -62579,7 +62626,7 @@ thing O
 that O
 can O
 happen O
-for Beneficiary
+for Experiencer
 any O
 restaurant O
 like Comparison/Contrast
@@ -63151,7 +63198,7 @@ failing O
 or O
 irrigation, O
 meaning O
-less O
+less Approximator
 runoff O
 and O
 more O
@@ -63310,7 +63357,7 @@ tour O
 the O
 bonds O
 themselves O
-less O
+less Approximator
 attractive O
 
 were O
@@ -63370,7 +63417,7 @@ outside Superset
 Why O
 it's O
 never O
-for Beneficiary
+for Experiencer
 Netherlands O
 Beginning O
 
@@ -63628,7 +63675,7 @@ light O
 brown. O
 
 the O
-less O
+less Approximator
 powerful O
 100-seat O
 Senate. O
@@ -63664,7 +63711,7 @@ folks O
 be O
 a O
 lot O
-less O
+less Approximator
 
 the O
 final O
@@ -64036,7 +64083,7 @@ cent. O
 device O
 owners O
 are O
-lacking O
+lacking Attribute
 the O
 latest O
 security O
@@ -66290,6 +66337,7 @@ gain O
 Group O
 C O
 along Accompanier
+with O
 
 the O
 river O
@@ -66736,7 +66784,7 @@ minus O
 mm. O
 
 be O
-lacking O
+lacking Attribute
 
 09:15 O
 Army O
@@ -66840,7 +66888,7 @@ its O
 is O
 rural O
 and O
-lacking O
+lacking Attribute
 
 put O
 his O
@@ -67199,7 +67247,7 @@ private O
 No O
 peace O
 dividend' O
-for Beneficiary
+for Experiencer
 Panama O
 border O
 force O
@@ -67218,6 +67266,7 @@ members O
 were O
 killed, O
 along Accompanier
+with O
 
 his O
 vacation O
@@ -67868,7 +67917,7 @@ constitutionality O
 bed O
 and O
 was O
-lacking O
+lacking Attribute
 energy. O
 
 regarding Topic
@@ -68044,7 +68093,7 @@ shelf O
 under Location
 the O
 counter O
-for Beneficiary
+for Experiencer
 Telugu O
 Speaking O
 people O
@@ -68690,7 +68739,7 @@ foods O
 are O
 grand O
 albeit O
-lacking O
+lacking Attribute
 
 I O
 was O
@@ -68985,6 +69034,7 @@ Earth? O
 the O
 weekend, O
 along Accompanier
+with O
 
 Just O
 a O
@@ -69061,7 +69111,7 @@ Act O
 
 backup, O
 if O
-less O
+less Approximator
 secure O
 or O
 complete O
@@ -69489,6 +69539,7 @@ their O
 Sloan-inspired O
 name) O
 along Accompanier
+with O
 
 items O
 were O
@@ -69564,6 +69615,7 @@ television O
 drama O
 series O
 along Accompanier
+with O
 
 Chinese O
 plane O
@@ -69942,6 +69994,7 @@ transfer O
 their O
 libraries, O
 along Accompanier
+with O
 
 a O
 blind O
@@ -70117,7 +70170,7 @@ ships. O
 the O
 other O
 different O
-anti Topic
+anti O
 viral O
 medications O
 that O
@@ -70703,6 +70756,7 @@ several O
 African O
 nations, O
 along Accompanier
+with O
 
 a O
 Canadian O
@@ -70803,7 +70857,7 @@ Unlike Comparison/Contrast
 years O
 older O
 and O
-less O
+less Approximator
 innocent O
 than O
 their O
@@ -70977,7 +71031,7 @@ celebrated O
 and O
 weather O
 updates O
-for Beneficiary
+for Experiencer
 Oxfordshire. O
 
 I O
@@ -71743,7 +71797,7 @@ caution O
 has O
 done O
 some O
-less O
+less Approximator
 than O
 politically O
 correct O
@@ -71865,7 +71919,7 @@ and O
 when O
 hormones O
 are O
-lacking O
+lacking Attribute
 due O
 
 the O
@@ -71928,7 +71982,7 @@ above ValueComparison
 estimates O
 , O
 
-anti Topic
+anti O
 drug O
 initiatives, O
 fell O
@@ -72033,7 +72087,7 @@ Rockland O
 “These O
 are O
 foods O
-for Beneficiary
+for Experiencer
 health. O
 
 The O
@@ -72235,6 +72289,7 @@ Wall O
 Street O
 expectations O
 along Accompanier
+with O
 
 manufacturers O
 insist O
@@ -73252,7 +73307,7 @@ week O
 
 Abadi O
 was O
-less O
+less Approximator
 specific O
 
 Utah O
@@ -73695,7 +73750,7 @@ out State
 
 had O
 been O
-lacking O
+lacking Attribute
 
 you O
 are O
@@ -73737,7 +73792,7 @@ Mart O
 process O
 was O
 thoroughly O
-lacking O
+lacking Attribute
 
 upon Time
 taking O
@@ -73876,7 +73931,7 @@ shrine O
 got O
 a O
 lot O
-less O
+less Approximator
 interesting. O
 
 make O
@@ -74063,7 +74118,7 @@ firm O
 Also, O
 plasma O
 is O
-less O
+less Approximator
 likely O
 
 Denny’s O
@@ -74129,7 +74184,7 @@ good O
 . O
 
 Turkey O
-Lacking O
+lacking Attribute
 absolute O
 majority, O
 Erdogan's O
@@ -74847,7 +74902,7 @@ hats O
 that O
 it O
 is O
-lacking O
+lacking Attribute
 in O
 terms O
 
@@ -74897,7 +74952,7 @@ access O
 public O
 pressure O
 are O
-lacking O
+lacking Attribute
 
 Should O
 you O
@@ -76044,6 +76099,7 @@ people O
 
 Cairo O
 along Accompanier
+with O
 
 you O
 don't O
@@ -76500,7 +76556,7 @@ largest O
 Dadaab O
 that O
 were O
-lacking O
+lacking Attribute
 
 3,533 O
 fatal O
@@ -76626,6 +76682,7 @@ boutiques O
 Gamble O
 Heights, O
 along Accompanier
+with O
 
 Eight O
 people O
@@ -76759,7 +76816,7 @@ weekend. O
 and O
 mothers O
 do O
-less O
+less Approximator
 paid O
 work O
 and O
@@ -77618,7 +77675,7 @@ Frontieres O
 grey O
 matter O
 and O
-less O
+less Approximator
 damage O
 
 vote O
@@ -77654,7 +77711,7 @@ their O
 heads O
 
 eat O
-less O
+less Approximator
 and O
 exercise O
 more. O
@@ -78604,7 +78661,7 @@ storm O
 created O
 a O
 logo O
-for Beneficiary
+for Experiencer
 the O
 project. O
 
@@ -78847,7 +78904,7 @@ sit O
 tracking, O
 a O
 feature O
-lacking O
+lacking Attribute
 
 They O
 always O
@@ -78861,7 +78918,7 @@ your O
 dish O
 , O
 ( O
-for Beneficiary
+for Experiencer
 vegetarians O
 like Comparison/Contrast
 me O
@@ -79437,6 +79494,7 @@ woes, O
 Bayern O
 
 along Accompanier
+with O
 
 uncovered O
 a O
@@ -79704,7 +79762,7 @@ could O
 has O
 really O
 been O
-lacking O
+lacking Attribute
 
 insurance O
 ($1,335) O
@@ -79923,7 +79981,7 @@ school. O
 
 A O
 look O
-inside Idiom
+inside Topic
 the O
 AirAsia O
 crisis O
@@ -80148,7 +80206,7 @@ THANK O
 YOU O
 
 those O
-less O
+less Approximator
 fortunate O
 
 At Circumstance
@@ -80834,7 +80892,7 @@ had O
 have O
 celebrities O
 endorsed O
-for Beneficiary
+for Experiencer
 the O
 2016 O
 election? O
@@ -81311,7 +81369,7 @@ line O
 age, O
 making O
 her O
-less O
+less Approximator
 likely O
 
 fight O
@@ -81557,7 +81615,7 @@ respectively O
 category O
 seemed O
 woefully O
-lacking O
+lacking Attribute
 
 2013, O
 denies O
@@ -82140,7 +82198,7 @@ Elemental O
 breaches O
 may O
 cost O
-less O
+less Approximator
 than O
 the O
 security O
@@ -82739,7 +82797,7 @@ and O
 provide O
 international O
 protection O
-for Beneficiary
+for Experiencer
 the O
 Palestinian O
 people. O
@@ -83136,7 +83194,7 @@ medium O
 Mental O
 Health O
 Week O
-for Beneficiary
+for Experiencer
 the O
 Place O
 charity. O
@@ -83508,6 +83566,7 @@ checks O
 The O
 company, O
 along Accompanier
+with O
 
 3:28 O
 Now O
@@ -84793,7 +84852,7 @@ Charges O
 are O
 pending O
 
-less O
+less Approximator
 wealthy O
 nations O
 would O
@@ -85146,7 +85205,7 @@ down O
 parties O
 are O
 even O
-less O
+less Approximator
 likely O
 
 August O
@@ -85280,7 +85339,7 @@ nicely O
 we O
 feel O
 anything O
-less O
+less Approximator
 would O
 be O
 unfair O
@@ -85310,7 +85369,7 @@ movie. O
 was O
 small O
 and O
-less O
+less Approximator
 visible O
 
 failing O
@@ -85626,7 +85685,7 @@ get O
 a O
 nice O
 gift O
-for Beneficiary
+for Experiencer
 my O
 wife O
 . O
@@ -86532,7 +86591,7 @@ concerning O
 death O
 sentence O
 is O
-less O
+less Approximator
 likely O
 
 taught O
@@ -86787,7 +86846,7 @@ failing O
 photos: O
 Playboy: O
 Entertainment O
-for Beneficiary
+for Experiencer
 men O
 The O
 July O
@@ -86858,6 +86917,7 @@ boy's O
 family O
 members, O
 along Accompanier
+with O
 
 resigned O
 the O
@@ -86968,7 +87028,7 @@ the O
 something O
 was O
 really O
-lacking O
+lacking Attribute
 
 DO O
 Nt O
@@ -87438,7 +87498,7 @@ at Time
 . O
 
 A O
-less O
+less Approximator
 optimistic O
 outlook O
 
@@ -87784,6 +87844,7 @@ and O
 Ahmed, O
 who O
 along Accompanier
+with O
 
 I O
 had O
@@ -88607,7 +88668,7 @@ this O
 is O
 the O
 garage O
-for Beneficiary
+for Experiencer
 you O
 . O
 
@@ -88823,6 +88884,7 @@ his O
 small O
 stand, O
 along Accompanier
+with O
 
 find O
 out PhrasalVerb
@@ -89751,7 +89813,7 @@ around Approximator
 new O
 refugees O
 
-Anti Topic
+anti O
 Nazi O
 League O
 protests O
@@ -89912,7 +89974,7 @@ evening O
 are O
 charging O
 significantly O
-less O
+less Approximator
 
 the O
 late O
@@ -90090,7 +90152,7 @@ metres O
 five O
 hours O
 or O
-less O
+less Approximator
 of O
 sleep O
 
@@ -90932,7 +90994,7 @@ a O
 transport O
 industry O
 is O
-less O
+less Approximator
 indicative O
 
 the O
@@ -91300,6 +91362,7 @@ Chinese O
 military O
 contingent, O
 along Accompanier
+with O
 
 are O
 the O
@@ -91388,7 +91451,7 @@ morning O
 to Purpose
 get O
 bagels O
-for Beneficiary
+for Experiencer
 myself O
 or O
 my O
@@ -92557,6 +92620,7 @@ suggested O
 those O
 topics, O
 along Accompanier
+with O
 
 make O
 unnecessary O
@@ -92582,7 +92646,7 @@ suspected O
 this O
 generation O
 is O
-lacking O
+lacking Attribute
 
 no O
 child O
@@ -92600,7 +92664,7 @@ corners O
 women O
 are O
 often O
-lacking O
+lacking Attribute
 and O
 laws O
 restricting O
@@ -92703,7 +92767,7 @@ said O
 marijuana O
 had O
 a O
-less O
+less Approximator
 dramatic O
 effect O
 than O
@@ -92762,7 +92826,7 @@ rehab O
 life O
 is O
 sadly O
-lacking O
+lacking Attribute
 
 retiring O
 en O
@@ -93042,6 +93106,7 @@ and O
 red O
 pepper, O
 along Accompanier
+with O
 
 A O
 customer O
@@ -93560,7 +93625,7 @@ it. O
 that O
 are O
 completely O
-lacking O
+lacking Attribute
 
 say O
 “Merry O
@@ -94068,7 +94133,7 @@ sailors O
 may O
 
 Fantastic O
-for Beneficiary
+for Experiencer
 kids O
 
 has O
@@ -94621,7 +94686,7 @@ transgender O
 children. O
 
 I'm O
-lacking O
+lacking Attribute
 race O
 sharpness. O
 
@@ -94673,7 +94738,7 @@ bias. O
 end O
 that O
 second, O
-less O
+less Approximator
 bloody, O
 conflict. O
 
@@ -95226,7 +95291,7 @@ school. O
 
 they O
 perform O
-less O
+less Approximator
 well O
 
 opposite O
@@ -95559,7 +95624,7 @@ the O
 recent O
 ascension O
 
-less O
+less Approximator
 serious O
 offenses, O
 it O
@@ -95675,7 +95740,7 @@ areas O
 Gimmicks: O
 This O
 was O
-lacking O
+lacking Attribute
 
 several O
 pending O
@@ -96084,7 +96149,7 @@ letters O
 
 the O
 restored O
-anti Topic
+anti O
 aircraft O
 gun O
 
@@ -96302,7 +96367,7 @@ have O
 develop O
 will O
 be O
-lacking O
+lacking Attribute
 
 factions O
 (or O
@@ -97134,6 +97199,7 @@ meet O
 San O
 Francisco, O
 along Accompanier
+with O
 
 Jennifer O
 Aniston O
@@ -97178,7 +97244,7 @@ the O
 the O
 education O
 is O
-lacking O
+lacking Attribute
 there. O
 
 stable O
@@ -97641,7 +97707,7 @@ crawlers. O
 light O
 stands O
 added O
-for Beneficiary
+for Experiencer
 night O
 games. O
 1995: O
@@ -98053,7 +98119,7 @@ walked O
 architecture O
 has O
 been O
-lacking O
+lacking Attribute
 is O
 the O
 sense O
@@ -99100,6 +99166,7 @@ year. O
 
 alive, O
 along Accompanier
+with O
 
 Delivery O
 is O
@@ -99554,7 +99621,7 @@ if O
 better O
 option, O
 maybe O
-less O
+less Approximator
 expensive O
 and O
 maybe O
@@ -100130,7 +100197,8 @@ down PhrasalVerb
 Harper's O
 pressure O
 points O
-Along Accompanier
+along Accompanier
+with O
 
 and O
 the O
@@ -100379,13 +100447,13 @@ Again O
 a O
 great O
 outing O
-for Beneficiary
+for Experiencer
 the O
 kids O
 , O
 a O
 frustration O
-for Beneficiary
+for Experiencer
 an O
 out O
 of O
@@ -101128,7 +101196,7 @@ including Superset
 the O
 day O
 
-Inside Idiom
+inside Topic
 Iraqi O
 Politics. O
 
@@ -101906,7 +101974,7 @@ do O
 underbidding O
 has O
 allowed O
-less O
+less Approximator
 capable O
 entities O
 
@@ -102107,6 +102175,7 @@ being O
 bid O
 on, O
 along Accompanier
+with O
 
 not O
 promoted O
@@ -102499,7 +102568,7 @@ people O
 make O
 people O
 any O
-less O
+less Approximator
 likely O
 
 less Approximator
@@ -102552,6 +102621,7 @@ the O
 the O
 scene, O
 along Accompanier
+with O
 
 Besides Elements
 hiking, O
@@ -102636,7 +102706,7 @@ sprawling O
 U.S. O
 
 her O
-ANTI Topic
+anti O
 World O
 Tour. O
 
@@ -102792,7 +102862,7 @@ who O
 table, O
 Wolfsburg O
 are O
-lacking O
+lacking Attribute
 Bundesliga O
 bite O
 and O
@@ -102967,7 +103037,7 @@ interest O
 no O
 3D O
 support O
-for Beneficiary
+for Experiencer
 Xbox O
 One O
 and O
@@ -104123,6 +104193,7 @@ reforms. O
 
 Instagram O
 along Accompanier
+with O
 
 Blasting O
 her O
@@ -104196,10 +104267,10 @@ TV O
 23 O
 photos: O
 Photos: O
-Inside Idiom
+inside Topic
 Guantanamo O
 Bay O
-Inside Idiom
+inside Topic
 
 Above Scalar/Rank
 all, O
@@ -104957,7 +105028,7 @@ control. O
 group O
 that O
 was O
-lacking O
+lacking Attribute
 
 amicable O
 agreement' O
@@ -105012,7 +105083,7 @@ vacation O
 too O
 lenient, O
 and O
-lacking O
+lacking Attribute
 
 total; O
 he O
@@ -105501,7 +105572,7 @@ feet O
 shape O
 and O
 felt O
-less O
+less Approximator
 lonely O
 than O
 people O
@@ -105770,7 +105841,7 @@ state O
 lucrative O
 overseas O
 rights O
-for Beneficiary
+for Experiencer
 the O
 EPL O
 have O
@@ -106150,6 +106221,7 @@ new O
 the O
 Currency O
 along Accompanier
+with O
 
 you O
 see O
@@ -106465,6 +106537,7 @@ PC O
 and O
 Mac, O
 along Accompanier
+with O
 
 moving O
 toward Direction
@@ -106571,7 +106644,7 @@ Twitter-shield. O
 And O
 maybe O
 that’s O
-lacking O
+lacking Attribute
 because O
 so O
 many O
@@ -107511,7 +107584,7 @@ charges, O
 the O
 suspect O
 
-anti Topic
+anti O
 growth-inhibiting O
 behaviors. O
 
@@ -107597,6 +107670,7 @@ Scotia O
 went O
 Liberal, O
 along Accompanier
+with O
 
 late O
 last O
@@ -107760,6 +107834,7 @@ Garon O
 were O
 killed O
 along Accompanier
+with O
 
 front O
 under State
@@ -108177,7 +108252,7 @@ lack O
 we O
 are O
 currently O
-lacking O
+lacking Attribute
 effective O
 black O
 leadership. O
@@ -108526,7 +108601,7 @@ that O
 
 Over O
 priced O
-for Beneficiary
+for Experiencer
 students O
 to O
 learn O
@@ -108667,7 +108742,7 @@ graphic O
 designer O
 
 somehow O
-lacking O
+lacking Attribute
 
 immune O
 system O
@@ -108956,7 +109031,7 @@ In Time
 
 a O
 proposal O
-for Beneficiary
+for Experiencer
 Greece O
 that O
 included O
@@ -109379,7 +109454,7 @@ Sir O
 
 the O
 Legida O
-anti Topic
+anti O
 Islamization O
 movement, O
 an O
@@ -109912,7 +109987,7 @@ years. O
 active O
 and O
 are O
-less O
+less Approximator
 likely O
 
 Excluding Elements
@@ -111123,7 +111198,7 @@ deadline O
 that O
 is O
 often O
-lacking O
+lacking Attribute
 
 Baffled O
 by Stimulus
@@ -111280,6 +111355,7 @@ Saleh O
 was O
 killed O
 along Accompanier
+with O
 
 the O
 first O
@@ -111416,7 +111492,7 @@ drastically O
 let's O
 the O
 place O
-down PhrasalVerb
+down Oalong Accompanier\nwith O\n
 though O
 
 a O
@@ -111563,6 +111639,7 @@ women O
 his O
 flat, O
 along Accompanier
+with O
 
 casinos O
 around 2DArea
@@ -111949,6 +112026,7 @@ German O
 government O
 - O
 along Accompanier
+with O
 
 not O
 be O
@@ -112251,7 +112329,7 @@ monitor O
 
 Wonderful O
 service O
-for Beneficiary
+for Experiencer
 large O
 group O
 
@@ -112295,6 +112373,7 @@ your O
 stress O
 go O
 along Accompanier
+with O
 
 Mé O
 decins O
@@ -112768,7 +112847,7 @@ life O
 he O
 is O
 acting O
-less O
+less Approximator
 radical. O
 
 a O
@@ -113762,7 +113841,7 @@ coolest O
 private O
 
 Security O
-lacking O
+lacking Attribute
 The O
 security O
 situation O
@@ -116474,7 +116553,7 @@ credits, O
 which O
 were O
 severely O
-lacking O
+lacking Attribute
 
 I O
 was O
@@ -116608,7 +116687,7 @@ did O
 a O
 great O
 job O
-for Beneficiary
+for Experiencer
 our O
 family O
 in Time
@@ -117129,7 +117208,7 @@ are O
 big O
 banks O
 are O
-less O
+less Approximator
 likely O
 
 allegedly O
@@ -117472,7 +117551,7 @@ bomb, O
 million), O
 six O
 times O
-less O
+less Approximator
 than O
 what O
 the O
@@ -117703,13 +117782,13 @@ highly O
 recommend O
 Fraiser O
 's O
-for Beneficiary
+for Experiencer
 anyone O
 planning O
 a O
 special O
 event O
-for Beneficiary
+for Experiencer
 friends O
 , O
 family O
@@ -118392,7 +118471,7 @@ characters O
 power O
 and O
 paying O
-less O
+less Approximator
 
 creek O
 adjacent O
@@ -118486,6 +118565,7 @@ Greece O
 and O
 Germany, O
 along Accompanier
+with O
 
 Monett O
 was O
@@ -119359,7 +119439,7 @@ time O
 and O
 towed O
 car O
-for Beneficiary
+for Experiencer
 me O
 to Destination
 the O
@@ -119788,6 +119868,7 @@ Benedict O
 
 go O
 along Accompanier
+with O
 
 2004 O
 - O
@@ -120110,7 +120191,7 @@ recapCBSTV O
 sluggish O
 and O
 has O
-less O
+less Approximator
 nimble O
 performance. O
 
@@ -121017,7 +121098,7 @@ arrival O
 and O
 to O
 come O
-down PhrasalVerb
+down O
 as Time
 soon O
 as O
@@ -121179,6 +121260,7 @@ West O
 Midlands, O
 died O
 along Accompanier
+with O
 
 soil O
 drop O
@@ -121526,7 +121608,7 @@ gave O
 way O
 
 an O
-anti Topic
+anti O
 Trident O
 demonstration. O
 
@@ -121585,7 +121667,7 @@ leads O
 found O
 many O
 students O
-lacking O
+lacking Attribute
 
 the O
 nuclear O
@@ -121615,7 +121697,7 @@ some O
 chief O
 justice O
 is O
-lacking O
+lacking Attribute
 
 design O
 Ribbon O
@@ -121709,7 +121791,7 @@ who O
 
 next O
 Typo O
-Anti Topic
+anti O
 Smoking O
 advertisement. O
 
@@ -122330,7 +122412,7 @@ change O
 course O
 also O
 means O
-less O
+less Approximator
 consumption, O
 which O
 
@@ -122479,7 +122561,7 @@ which O
 I O
 could O
 
-less O
+less Approximator
 work,” O
 PMA O
 spokesman O
@@ -122562,7 +122644,7 @@ and O
 make O
 them O
 feel O
-less O
+less Approximator
 
 is O
 normal O
@@ -122759,6 +122841,7 @@ new O
 time O
 capsule, O
 along Accompanier
+with O
 
 We O
 've O
@@ -123125,6 +123208,7 @@ a O
 Taepodong-2 O
 missile O
 along Accompanier
+with O
 
 inspection O
 under State
@@ -123317,7 +123401,7 @@ Sanders. O
 Dhabi, O
 UAE) O
 – O
-For Beneficiary
+for Experiencer
 the O
 new O
 Star O
@@ -123403,7 +123487,7 @@ years O
 war O
 
 Also O
-Less O
+less Approximator
 and O
 Except: O
 That O
@@ -123837,7 +123921,7 @@ framework O
 Saido O
 Berahino O
 is O
-lacking O
+lacking Attribute
 the O
 right O
 influences O
@@ -123980,7 +124064,7 @@ marriage O
 fellow O
 christian O
 is O
-anti Topic
+anti O
 christian? O
 
 hair O
@@ -124016,7 +124100,7 @@ time O
 , O
 NO O
 care O
-for Beneficiary
+for Experiencer
 the O
 customers O
 AT Extent
@@ -124185,7 +124269,7 @@ week.’ O
 work O
 environment, O
 is O
-less O
+less Approximator
 harrowing O
 than O
 most O
@@ -124256,7 +124340,7 @@ baby O
 are O
 all O
 the O
-anti Topic
+anti O
 vaccinate O
 loons O
 today? O
@@ -124926,7 +125010,7 @@ choking O
 students O
 often O
 have O
-less O
+less Approximator
 experience O
 
 premium O
@@ -124965,6 +125049,7 @@ doomed O
 Dragon O
 
 along Accompanier
+with O
 
 Excluding Elements
 currency O
@@ -125142,6 +125227,7 @@ cent O
 
 tap, O
 along Accompanier
+with O
 
 Summerside, O
 someone O
@@ -125268,6 +125354,7 @@ who O
 went O
 missing O
 along Accompanier
+with O
 
 or O
 minus O
@@ -125344,7 +125431,7 @@ wanting Goal
 stadiums O
 because O
 they’re O
-lacking O
+lacking Attribute
 competition,” O
 said O
 Adekanmi O
@@ -125352,7 +125439,7 @@ Adekanmi O
 a O
 competitive O
 advantage O
-for Beneficiary
+for Experiencer
 the O
 offense. O
 
@@ -125674,7 +125761,7 @@ Kurdish O
 our O
 teeth O
 become O
-less O
+less Approximator
 sensitive O
 
 2016 O
@@ -125743,6 +125830,7 @@ twisting O
 yellow O
 tape, O
 along Accompanier
+with O
 
 Cleveland, O
 Marvin O
@@ -125942,7 +126030,7 @@ competition O
 - O
 despite Circumstance
 falling O
-down PhrasalVerb
+down O
 
 29. O
 Put O
@@ -125969,6 +126057,7 @@ national O
 
 1918 O
 along Accompanier
+with O
 
 gas O
 was O
@@ -126461,7 +126550,7 @@ in DeicticTime
 5 O
 minutes O
 or O
-less O
+less Approximator
 . O
 
 boast O
@@ -127010,7 +127099,7 @@ lawsuit O
 becoming O
 a O
 little O
-less O
+less Approximator
 defensive O
 and O
 trying O
@@ -127539,6 +127628,7 @@ was O
 also O
 killed, O
 along Accompanier
+with O
 
 draw O
 upon PhrasalVerb
@@ -128243,6 +128333,7 @@ first O
 boxing O
 event O
 along Accompanier
+with O
 
 Besides Elements
 the O
@@ -128406,7 +128497,7 @@ transfer O
 may O
 have O
 been O
-lacking O
+lacking Attribute
 
 group O
 - O
@@ -128944,7 +129035,7 @@ time O
 on Theme
 routes O
 set O
-for Beneficiary
+for Experiencer
 children O
 , O
 but O
@@ -129044,7 +129135,7 @@ millions O
 I O
 was O
 just O
-lacking O
+lacking Attribute
 a O
 couple O
 little O
@@ -130572,7 +130663,7 @@ and O
 this O
 statement O
 curiously O
-lacking O
+lacking Attribute
 
 another O
 Tom O
@@ -130685,7 +130776,7 @@ their O
 pool O
 
 Great O
-for Beneficiary
+for Experiencer
 the O
 kiddies O
 - O
@@ -130721,7 +130812,7 @@ liberty O
 private O
 mortgage O
 insurance O
-less O
+less Approximator
 competitive O
 
 subject O
@@ -130780,7 +130871,7 @@ Nothing O
 too O
 much O
 trouble O
-for Beneficiary
+for Experiencer
 Ian O
 , O
 thanks O
@@ -131553,7 +131644,7 @@ Espresso O
 million O
 people O
 are O
-lacking O
+lacking Attribute
 access O
 
 Monday, O
@@ -131865,7 +131956,7 @@ Basilica O
 says O
 the O
 honor O
-for Beneficiary
+for Experiencer
 Tu O
 Youyou, O
 the O
@@ -132077,7 +132168,7 @@ aircraft. O
 “Business O
 etiquette O
 is O
-lacking O
+lacking Attribute
 
 1) O
 Fail O
@@ -132499,6 +132590,7 @@ ranging O
 
 pay O
 along Accompanier
+with O
 
 highest O
 literacy O
@@ -132836,7 +132928,7 @@ over Topic
 austerity O
 
 die: O
-Inside Idiom
+inside Topic
 Chile's O
 lively O
 city O
@@ -134582,7 +134674,7 @@ surrounding O
 evidence O
 has O
 been O
-lacking O
+lacking Attribute
 
 have O
 been O
@@ -135083,9 +135175,9 @@ and O
 
 and O
 becomes O
-less O
+less Approximator
 and O
-less O
+less Approximator
 predictive O
 
 Tyler O
@@ -135246,6 +135338,7 @@ cocaine O
 were O
 seized, O
 along Accompanier
+with O
 
 Both O
 my O
@@ -135424,7 +135517,7 @@ The O
 Explorer. O
 
 it's O
-less O
+less Approximator
 politic O
 
 demanded O
@@ -135986,7 +136079,7 @@ years. O
 Max O
 is O
 not O
-lacking O
+lacking Attribute
 
 the O
 papal O
@@ -136044,7 +136137,7 @@ and O
 changed O
 a O
 lightbulb O
-for Beneficiary
+for Experiencer
 me O
 . O
 
@@ -136077,7 +136170,7 @@ years O
 Japan's O
 large O
 manufacturers O
-less O
+less Approximator
 optimistic O
 than O
 expected. O
@@ -136450,7 +136543,7 @@ Creek O
 
 What O
 is O
-lacking O
+lacking Attribute
 are O
 the O
 changes O
@@ -137080,7 +137173,7 @@ kind O
 jobless O
 claims O
 rose O
-less O
+less Approximator
 than O
 expected O
 last O
@@ -137300,7 +137393,7 @@ that O
 employees, O
 and O
 have O
-less O
+less Approximator
 
 said: O
 The O
@@ -137333,7 +137426,7 @@ people O
 dealing O
 
 an O
-anti Topic
+anti O
 austerity O
 protest O
 
@@ -138254,7 +138347,7 @@ standard O
 Clarity O
 had O
 been O
-lacking O
+lacking Attribute
 in O
 the O
 
@@ -138932,7 +139025,7 @@ a O
 Blues O
 were O
 sorely O
-lacking O
+lacking Attribute
 last O
 season. O
 
@@ -139247,7 +139340,7 @@ State O
 Obama O
 will O
 face O
-less O
+less Approximator
 pressure O
 
 I O
@@ -140786,7 +140879,7 @@ release. O
 than O
 35 O
 percent O
-less O
+less Approximator
 
 thrust O
 Canadian–Saudi O
@@ -142445,7 +142538,7 @@ given O
 would O
 prefer O
 a O
-less O
+less Approximator
 competitive O
 industry O
 
@@ -143072,6 +143165,7 @@ defense O
 intelligence O
 departments, O
 along Accompanier
+with O
 
 New O
 York, O
@@ -143275,7 +143369,7 @@ day. O
 attest O
 is O
 very O
-lacking O
+lacking Attribute
 throughout O
 most O
 
@@ -143325,6 +143419,7 @@ week O
 the O
 crisis, O
 along Accompanier
+with O
 
 the O
 call O
@@ -143720,7 +143815,7 @@ the O
 Sexual O
 assault O
 testing O
-lacking O
+lacking Attribute
 in O
 parts O
 
@@ -143798,7 +143893,7 @@ people. O
 also O
 be O
 held O
-less O
+less Approximator
 frequently O
 and O
 
@@ -144406,7 +144501,7 @@ dangerous O
 
 that O
 cuts O
-down PhrasalVerb
+down O
 on Theme
 teh O
 wait O
@@ -144523,7 +144618,7 @@ slept O
 New O
 York O
 received O
-less O
+less Approximator
 snow O
 than O
 predicted. O
@@ -144952,7 +145047,7 @@ Deputy O
 mature O
 product, O
 is O
-lacking O
+lacking Attribute
 
 he O
 has O
@@ -146210,7 +146305,7 @@ UK O
 the O
 city O
 severely O
-lacking O
+lacking Attribute
 
 also O
 been O
@@ -146227,7 +146322,7 @@ a O
 surprise O
 birthday O
 party O
-for Beneficiary
+for Experiencer
 my O
 wife O
 at Location
@@ -146516,7 +146611,7 @@ one O
 around, O
 it O
 feels O
-less O
+less Approximator
 important O
 than O
 it O
@@ -146564,7 +146659,7 @@ two O
 decades O
 
 Also O
-Less O
+less Approximator
 and O
 Except: O
 That O
@@ -147388,6 +147483,7 @@ Center O
 
 Iowa O
 along Accompanier
+with O
 
 Above Location
 that O
@@ -148279,7 +148375,7 @@ ladder O
 
 A O
 look O
-inside Idiom
+inside Topic
 Pyongyang O
 orphanage O
 9 O
@@ -148319,7 +148415,7 @@ nations, O
 were O
 “vulgar, O
 extremely O
-lacking O
+lacking Attribute
 
 towards Direction
 him. O
@@ -148393,7 +148489,7 @@ Nov. O
 
 the O
 jump, O
-less O
+less Approximator
 sweet O
 stuff O
 
@@ -148963,7 +149059,7 @@ experience O
 Butter O
 Pumpkin O
 is O
-less O
+less Approximator
 than O
 perfect. O
 
@@ -149471,7 +149567,7 @@ we O
 wonder O
 girls O
 are O
-lacking O
+lacking Attribute
 enthusiasm O
 
 a O
@@ -149808,7 +149904,7 @@ must O
 someone O
 who O
 is O
-less O
+less Approximator
 likely O
 
 Amid Circumstance
@@ -150552,7 +150648,7 @@ which O
 things O
 very O
 much O
-lacking O
+lacking Attribute
 
 a O
 failing O
@@ -150643,7 +150739,7 @@ and O
 gathering O
 is O
 so O
-lacking O
+lacking Attribute
 
 start O
 a O
@@ -151004,6 +151100,7 @@ rival O
 99p O
 
 along Accompanier
+with O
 
 set-up O
 and O
@@ -151057,7 +151154,7 @@ U2 O
 greatest O
 chess O
 player O
-Inside Idiom
+inside Topic
 the O
 mind O
 
@@ -151195,7 +151292,7 @@ shooter O
 any O
 special O
 features O
-for Beneficiary
+for Experiencer
 your O
 pets? O
 
@@ -151736,7 +151833,7 @@ Jews O
 the O
 resources O
 are O
-lacking O
+lacking Attribute
 
 Khanfoura O
 , O
@@ -152089,6 +152186,7 @@ riders O
 were O
 dispatched O
 along Accompanier
+with O
 
 very O
 simple O
@@ -152499,7 +152597,7 @@ morning O
 slavery O
 had O
 been O
-less O
+less Approximator
 destructive O
 than O
 Moynihan O
@@ -153296,7 +153394,7 @@ Evening O
 
 A O
 look O
-inside Idiom
+inside Topic
 China's O
 ghost O
 cities O
@@ -153411,7 +153509,7 @@ lovely O
 . O
 
 using O
-less O
+less Approximator
 shampoo, O
 and O
 oil O
@@ -153504,6 +153602,7 @@ lighting, O
 a O
 
 along Accompanier
+with O
 
 Great O
 pub O
@@ -153774,7 +153873,7 @@ was O
 
 play O
 a O
-less O
+less Approximator
 active O
 role O
 
@@ -153991,7 +154090,7 @@ failing O
 and O
 workers O
 take O
-less O
+less Approximator
 time O
 
 boat O
@@ -154173,6 +154272,7 @@ Bonanno O
 
 questioning, O
 along Accompanier
+with O
 
 is O
 no O
@@ -155378,7 +155478,7 @@ prospect O
 think O
 has O
 been O
-lacking O
+lacking Attribute
 
 Photos: O
 Prince O
@@ -155391,6 +155491,7 @@ Prince O
 the O
 car, O
 along Accompanier
+with O
 
 groups O
 ($229 O
@@ -155510,6 +155611,7 @@ photos O
 were O
 shot, O
 along Accompanier
+with O
 
 their O
 case, O
@@ -155815,6 +155917,7 @@ Christian O
 
 person, O
 along Accompanier
+with O
 
 reason O
 between Co-Theme
@@ -155835,7 +155938,7 @@ a O
 reasonable O
 doubt O
 
-for Beneficiary
+for Experiencer
 90 O
 minute O
 classes, O
@@ -156405,6 +156508,7 @@ wanting Goal
 the O
 moment O
 along Accompanier
+with O
 
 on Activity
 a O
@@ -156528,7 +156632,7 @@ He O
 has O
 been O
 really O
-lacking O
+lacking Attribute
 is O
 agreement O
 
@@ -156668,7 +156772,7 @@ houses. O
 White O
 House O
 found O
-lacking O
+lacking Attribute
 
 launched O
 deadly O
@@ -156875,7 +156979,7 @@ your O
 
 get O
 an O
-anti Topic
+anti O
 gun O
 leader O
 
@@ -156947,7 +157051,7 @@ unvaccinated. O
 communication, O
 traits O
 often O
-lacking O
+lacking Attribute
 for O
 people O
 
@@ -156965,7 +157069,7 @@ percent O
 intensity, O
 a O
 little O
-less O
+less Approximator
 acidity O
 a O
 little O
@@ -157312,7 +157416,7 @@ or O
 
 slow O
 and O
-lacking O
+lacking Attribute
 
 below ValueComparison
 50 O
@@ -158106,6 +158210,7 @@ indeed O
 be O
 returning O
 along Accompanier
+with O
 
 or O
 above ValueComparison
@@ -158912,7 +159017,7 @@ and O
 had O
 them O
 break O
-down PhrasalVerb
+down O
 and O
 tell O
 the O
@@ -159058,7 +159163,7 @@ will O
 The O
 lead O
 attorney O
-for Beneficiary
+for Experiencer
 the O
 plaintiffs O
 who O
@@ -160002,7 +160107,7 @@ lists O
 
 The O
 World O
-Anti Topic
+anti O
 Doping O
 Agency O
 (WADA) O
@@ -160223,7 +160328,7 @@ material O
 and O
 makes O
 people O
-less O
+less Approximator
 resilient O
 
 people O
@@ -160370,7 +160475,7 @@ the O
 world, O
 
 An O
-anti Topic
+anti O
 tank O
 gun O
 was O
@@ -160997,7 +161102,7 @@ warning. O
 it’s O
 unfamiliar O
 and O
-lacking O
+lacking Attribute
 that O
 Swiftian O
 shine. O
@@ -161084,7 +161189,7 @@ state O
 
 better O
 informed, O
-less O
+less Approximator
 superficial O
 guides. O
 
@@ -161799,7 +161904,7 @@ high O
 school O
 
 A O
-less O
+less Approximator
 rigorous O
 detox O
 perhaps O
@@ -161868,7 +161973,7 @@ Tesla O
 Albion O
 were O
 sorely O
-lacking O
+lacking Attribute
 a O
 knockout O
 punch O
@@ -162381,7 +162486,7 @@ and O
 made O
 the O
 fighting O
-less O
+less Approximator
 intense O
 
 a O
@@ -162774,7 +162879,7 @@ bond O
 Wednesday O
 
 be O
-lacking O
+lacking Attribute
 
 earned O
 63 O
@@ -163423,6 +163528,7 @@ a O
 railway O
 station O
 along Accompanier
+with O
 
 dollars, O
 and O
@@ -164248,7 +164354,7 @@ out State
 a O
 separate O
 entrance O
-for Beneficiary
+for Experiencer
 children. O
 
 German O
@@ -164347,7 +164453,7 @@ better O
 , O
 it O
 s O
-less O
+less Approximator
 dry O
 & O
 smoother O
@@ -164449,7 +164555,7 @@ Hill O
 along O
 
 considerably O
-less O
+less Approximator
 baggage O
 themselves, O
 said O
@@ -164604,7 +164710,7 @@ years, O
 is O
 demanding O
 respect O
-for Beneficiary
+for Experiencer
 the O
 sacredness O
 all O
@@ -166765,7 +166871,7 @@ are O
 heated O
 and O
 often O
-lacking O
+lacking Attribute
 
 20 O
 kilometres O
@@ -167398,7 +167504,7 @@ minus Approximator
 percent. O
 
 be O
-lacking O
+lacking Attribute
 (and O
 worrying) O
 is O
@@ -167478,7 +167584,7 @@ his O
 that O
 I'm O
 so O
-anti Topic
+anti O
 -Russian O
 that O
 I O
@@ -167884,7 +167990,7 @@ cm O
 the O
 one O
 medal O
-lacking O
+lacking Attribute
 
 golfers O
 walking O
@@ -167959,7 +168065,7 @@ her O
 Local O
 Plan O
 are O
-lacking O
+lacking Attribute
 a O
 link,” O
 she O
@@ -168066,7 +168172,7 @@ shock O
 
 A O
 look O
-inside Idiom
+inside Topic
 Pyongyang O
 orphanage O
 9 O
@@ -168671,7 +168777,7 @@ have O
 great O
 tunes O
 
-Anti Topic
+anti O
 Doping O
 Lab O
 Qatar. O
@@ -168799,7 +168905,7 @@ it O
 . O
 
 be O
-less O
+less Approximator
 popular O
 than O
 expected. O
@@ -169562,7 +169668,7 @@ later O
 said O
 America O
 is O
-lacking O
+lacking Attribute
 a O
 vision. O
 
@@ -169630,7 +169736,7 @@ hand. O
 feeling O
 that O
 was O
-lacking O
+lacking Attribute
 before. O
 
 carrying O
@@ -170083,7 +170189,7 @@ result O
 platform O
 issues, O
 have O
-less O
+less Approximator
 correlation O
 
 minus Approximator
@@ -170286,7 +170392,7 @@ civil O
 Tardi O
 adds O
 information O
-lacking O
+lacking Attribute
 
 the O
 opposite O
@@ -170626,6 +170732,7 @@ attorney O
 
 Alan, O
 along Accompanier
+with O
 
 staying O
 below ValueComparison
@@ -170667,7 +170774,7 @@ ended O
 they O
 will O
 spend O
-less O
+less Approximator
 
 our O
 job O
@@ -171367,7 +171474,7 @@ event O
 government O
 are O
 still O
-anti Topic
+anti O
 media, O
 generally O
 there O
@@ -171632,7 +171739,7 @@ supporters O
 
 helping O
 the O
-less O
+less Approximator
 affluent. O
 
 was O
@@ -171646,7 +171753,7 @@ were O
 reps O
 admitted O
 was O
-lacking O
+lacking Attribute
 
 Great O
 Service O
@@ -171658,7 +171765,7 @@ Don O
 make O
 German O
 exports O
-less O
+less Approximator
 competitive, O
 
 sent O
@@ -171753,7 +171860,7 @@ investigation. O
 photos: O
 30,000 O
 rally O
-for Beneficiary
+for Experiencer
 Trump O
 
 Hence O
@@ -171766,7 +171873,7 @@ groups O
 allowing O
 one O
 or O
-less O
+less Approximator
 hits O
 
 was O
@@ -171878,7 +171985,7 @@ which O
 what O
 they O
 are O
-lacking O
+lacking Attribute
 is O
 planning O
 -- O
@@ -172012,6 +172119,7 @@ officers O
 be O
 detained, O
 along Accompanier
+with O
 
 Dent O
 following Explanation
@@ -172452,7 +172560,7 @@ Milovy O
 pose O
 
 be O
-less O
+less Approximator
 prevalent O
 
 a O
@@ -172642,9 +172750,9 @@ autopsies. O
 means O
 you'll O
 own O
-less O
+less Approximator
 and O
-less O
+less Approximator
 
 these O
 other O
@@ -173419,7 +173527,7 @@ tens O
 bought O
 a O
 Stratoliner O
-for Beneficiary
+for Experiencer
 himself, O
 according O
 
@@ -173494,6 +173602,7 @@ placed O
 major O
 decisions, O
 along Accompanier
+with O
 
 unemployment O
 was O
@@ -173741,7 +173850,7 @@ forces O
 Closing O
 school O
 means O
-less O
+less Approximator
 time O
 
 and O
@@ -174254,6 +174363,7 @@ maybe O
 and O
 prices O
 along Accompanier
+with O
 
 I O
 figure O
@@ -174749,7 +174859,7 @@ pizazz, O
 exercises O
 were O
 organized O
-less O
+less Approximator
 because O
 
 or O
@@ -175359,7 +175469,7 @@ employers O
 thought O
 I O
 was O
-lacking O
+lacking Attribute
 a O
 moral O
 compass. O
@@ -176142,7 +176252,7 @@ law. O
 the O
 focus O
 is O
-less O
+less Approximator
 
 a O
 real O
@@ -177773,7 +177883,7 @@ designs. O
 have O
 orbits O
 lying O
-less O
+less Approximator
 than O
 the O
 distance O
@@ -178315,7 +178425,7 @@ looking O
 Russia O
 was O
 still O
-lacking O
+lacking Attribute
 the O
 12,000 O
 stadium O
@@ -178479,7 +178589,7 @@ an O
 area O
 to Function
 sit O
-down PhrasalVerb
+down O
 and O
 talk O
 with Co-Agent
@@ -178614,6 +178724,7 @@ stole O
 the O
 headlines O
 along Accompanier
+with O
 
 desperation, O
 amidst Location
@@ -178734,7 +178845,7 @@ a O
 porch? O
 
 A O
-less O
+less Approximator
 obvious, O
 more O
 intriguing O
@@ -178803,7 +178914,7 @@ the O
 sprawled-out O
 Tokarski. O
 
-For Beneficiary
+for Experiencer
 those O
 who O
 care O
@@ -179209,7 +179320,7 @@ years O
 has O
 previously O
 been O
-lacking O
+lacking Attribute
 
 control O
 except Elements
@@ -179385,7 +179496,7 @@ times O
 Raju O
 took O
 us O
-inside Idiom
+inside Topic
 the O
 recruiting O
 miss O
@@ -179627,7 +179738,7 @@ under Approximator
 signals O
 weakening O
 
-less O
+less Approximator
 time O
 -- O
 albeit O
@@ -180486,12 +180597,12 @@ children O
 will O
 cost O
 much O
-less O
+less Approximator
 
 student O
 sheds O
 locks O
-for Beneficiary
+for Experiencer
 @CancerCareMB O
 & O
 Harvest O
@@ -180584,7 +180695,7 @@ Sheriff's O
 
 12 O
 photos: O
-Inside Idiom
+inside Topic
 Africa's O
 biggest O
 diamond O
@@ -181683,7 +181794,7 @@ suggested O
 
 their O
 computers, O
-Anti Topic
+anti O
 Social O
 Media O
 re-emerges O
@@ -181746,6 +181857,7 @@ a O
 Model O
 S O
 along Accompanier
+with O
 
 first O
 defense O
@@ -181761,7 +181873,7 @@ pleads O
 with PhrasalVerb
 Iran O
 
-less O
+less Approximator
 pain O
 
 Tivan O
@@ -182092,7 +182204,7 @@ scandal O
 the O
 M25 O
 going O
-anti Topic
+anti O
 clockwise. O
 
 Bayer O
@@ -182138,7 +182250,7 @@ or O
 
 drinking O
 fluids O
-lacking O
+lacking Attribute
 
 the O
 meeting, O
@@ -182530,7 +182642,7 @@ a O
 stand O
 
 A O
-less O
+less Approximator
 eager O
 leadership O
 
@@ -183544,7 +183656,7 @@ a O
 protest O
 
 be O
-less O
+less Approximator
 dramatic O
 
 the O
@@ -183730,7 +183842,7 @@ and O
 food O
 
 be O
-less O
+less Approximator
 heavy-handed. O
 
 Across Location
@@ -183777,7 +183889,7 @@ suspended O
 makes O
 you O
 eat O
-less O
+less Approximator
 One O
 
 Dr. O
@@ -183789,7 +183901,7 @@ pet O
 because O
 it O
 depends O
-less O
+less Approximator
 
 It O
 was O
@@ -184172,6 +184284,7 @@ brought O
 her O
 mother O
 along Accompanier
+with O
 
 Amid Circumstance
 heightened O
@@ -184307,12 +184420,12 @@ both O
 had O
 that O
 predisposition O
-inside Idiom
+inside Topic
 
 uses O
 10 O
 percent O
-less O
+less Approximator
 data O
 and O
 displays O
@@ -184397,7 +184510,7 @@ a O
 and O
 Relationship O
 Education O
-for Beneficiary
+for Experiencer
 primary O
 and O
 secondary O
@@ -184662,6 +184775,7 @@ all O
 grilled O
 vegetables O
 along Accompanier
+with O
 
 contains O
 language O
@@ -184987,7 +185101,7 @@ Turkey O
 mass O
 indexes O
 and O
-less O
+less Approximator
 belly O
 fat O
 than O
@@ -185017,6 +185131,7 @@ and O
 Drum O
 Corps, O
 along Accompanier
+with O
 
 opinion O
 polls O
@@ -185190,7 +185305,7 @@ piano O
 keys O
 
 support O
-for Beneficiary
+for Experiencer
 Paris O
 The O
 Auckland O
@@ -185198,6 +185313,7 @@ Auckland O
 the O
 Bureau, O
 along Accompanier
+with O
 
 a O
 shaker O
@@ -185235,7 +185351,7 @@ except Elements
 Angeles O
 - O
 Forest O
-For Beneficiary
+for Experiencer
 The O
 Trees O
 (Sneak O
@@ -185273,7 +185389,7 @@ instead O
 GOP O
 won't O
 be O
-lacking O
+lacking Attribute
 in O
 platforms O
 
@@ -185638,7 +185754,7 @@ Qaeda O
 the O
 pitch O
 was O
-lacking O
+lacking Attribute
 
 unlike Comparison/Contrast
 the O
@@ -185771,7 +185887,7 @@ Parliament O
 sadly O
 (and O
 probably O
-less O
+less Approximator
 profitably) O
 relegating O
 
@@ -185824,7 +185940,7 @@ more O
 and O
 give O
 me O
-less O
+less Approximator
 warranty O
 . O
 
@@ -186154,7 +186270,7 @@ arrival O
 that O
 were O
 so O
-lacking O
+lacking Attribute
 
 the O
 opposite O
@@ -186271,7 +186387,7 @@ usual O
 intrigue O
 
 26% O
-less O
+less Approximator
 likely O
 
 Underneath O
@@ -186496,6 +186612,7 @@ three O
 EU O
 powers, O
 along Accompanier
+with O
 
 rollover O
 Sunday O
@@ -186736,7 +186853,7 @@ bat O
 actresses O
 receive O
 are O
-less O
+less Approximator
 
 PAT O
 testing O
@@ -187052,7 +187169,7 @@ wanted O
 said O
 they O
 are O
-anti Topic
+anti O
 hunters O
 - O
 FOR O
@@ -187776,7 +187893,7 @@ arrest, O
 are O
 
 offer O
-less O
+less Approximator
 attractive O
 working O
 conditions O
@@ -188097,6 +188214,7 @@ wanting Goal
 
 Thursday O
 along Accompanier
+with O
 
 October O
 following Explanation
@@ -188107,7 +188225,7 @@ coli O
 1 O
 percent O
 or O
-less O
+less Approximator
 for O
 
 Argentina O
@@ -188383,7 +188501,7 @@ show. O
 beer O
 consumption O
 were O
-less O
+less Approximator
 densely O
 populated. O
 
@@ -188567,7 +188685,7 @@ Canada, O
 aging, O
 meaning O
 there’s O
-less O
+less Approximator
 competition O
 
 be O
@@ -189044,7 +189162,7 @@ tours O
 photos: O
 CNN O
 exclusive: O
-Inside Idiom
+inside Topic
 U.S.-South O
 Korea O
 annual O
@@ -189131,6 +189249,7 @@ oral O
 polio O
 vaccine O
 along Accompanier
+with O
 
 always O
 been O
@@ -189748,6 +189867,7 @@ was O
 gunned O
 down, O
 along Accompanier
+with O
 
 cargo O
 craft O
@@ -190139,7 +190259,7 @@ which O
 is O
 people O
 are O
-less O
+less Approximator
 likely O
 
 have O
@@ -190397,7 +190517,7 @@ I O
 could O
 track O
 people O
-down PhrasalVerb
+down O
 one O
 by O
 one O
@@ -190793,7 +190913,7 @@ energize. O
 
 15 O
 percent O
-less O
+less Approximator
 than O
 men. O
 
@@ -191372,6 +191492,7 @@ bed O
 - O
 Warren, O
 along Accompanier
+with O
 
 Chuck O
 and O
@@ -191840,7 +191961,7 @@ Had O
 expensive O
 tests O
 are O
-less O
+less Approximator
 accessible, O
 Leong O
 said, O
@@ -191968,7 +192089,7 @@ Towing O
 is O
 the O
 company O
-for Beneficiary
+for Experiencer
 you O
 . O
 
@@ -192580,7 +192701,7 @@ problems O
 population O
 or O
 maybe O
-less O
+less Approximator
 are O
 still O
 here, O
@@ -194472,7 +194593,7 @@ Wicksburg O
 interventions O
 are O
 woefully O
-lacking O
+lacking Attribute
 
 it O
 broad O
@@ -194743,7 +194864,7 @@ it's O
 
 we O
 were O
-lacking O
+lacking Attribute
 speed, O
 Ukraine O
 coach O
@@ -195402,7 +195523,7 @@ Architecture O
 and O
 retrospectives, O
 while O
-less O
+less Approximator
 popular O
 techniques O
 included O
@@ -195442,7 +195563,7 @@ car O
 Canada's O
 anti-radicalization O
 programs O
-lacking O
+lacking Attribute
 VIDEO: O
 Anti-radicalization O
 program O
@@ -196217,7 +196338,7 @@ end O
 
 the O
 Foundation O
-for Beneficiary
+for Experiencer
 Florida's O
 Future. O
 
@@ -196426,7 +196547,7 @@ Except Elements
 
 We O
 were O
-lacking O
+lacking Attribute
 batteries, O
 
 the O
@@ -196543,7 +196664,7 @@ monuments O
 often O
 be O
 found O
-lacking O
+lacking Attribute
 
 Century O
 Fox's O
@@ -196918,6 +197039,7 @@ baseball O
 will O
 follow, O
 along Accompanier
+with O
 
 smuggled O
 cigarettes O
@@ -197506,7 +197628,7 @@ became O
 Santos O
 was O
 not O
-lacking O
+lacking Attribute
 for O
 opportunities O
 
@@ -197630,7 +197752,7 @@ than O
 weeks. O
 
 Police, O
-Anti Topic
+anti O
 Terrorism O
 Squad O
 (M. O
@@ -197775,6 +197897,7 @@ lotions, O
 body O
 washes, O
 along Accompanier
+with O
 
 margins O
 Spending O
@@ -199531,7 +199654,7 @@ Music O
 has O
 been O
 somewhat O
-lacking O
+lacking Attribute
 
 We O
 have O
@@ -199601,7 +199724,7 @@ I O
 that O
 I O
 was O
-lacking O
+lacking Attribute
 before. O
 
 the O
@@ -199850,7 +199973,7 @@ Accomodating O
 No. O
 2 O
 ranking O
-for Beneficiary
+for Experiencer
 Joe's O
 Kansas O
 City O
@@ -200357,7 +200480,7 @@ over O
 If O
 you O
 are O
-lacking O
+lacking Attribute
 
 peak O
 a O
@@ -200772,6 +200895,7 @@ House, O
 
 Acernese, O
 along Accompanier
+with O
 
 Combine O
 all O
@@ -201020,7 +201144,7 @@ was O
 raise O
 minimum O
 wage O
-for Beneficiary
+for Experiencer
 millions. O
 
 No O
@@ -201062,7 +201186,7 @@ price O
 said O
 he O
 was O
-lacking O
+lacking Attribute
 mobility. O
 
 mass O
@@ -201225,7 +201349,7 @@ has O
 helmet, O
 which O
 is O
-lacking O
+lacking Attribute
 what O
 makes O
 a O
@@ -201317,6 +201441,7 @@ off PhrasalVerb
 Brown, O
 detectives, O
 along Accompanier
+with O
 
 Across Location
 England O
@@ -201480,7 +201605,7 @@ and O
 and O
 cables, O
 and O
-less O
+less Approximator
 fumbling O
 when O
 it's O
@@ -201887,7 +202012,7 @@ plenty O
 of Superset
 options O
 even O
-for Beneficiary
+for Experiencer
 picky O
 eaters O
 . O
@@ -202380,6 +202505,7 @@ Linux O
 operating O
 system, O
 along Accompanier
+with O
 
 an O
 additional O
@@ -202918,7 +203044,7 @@ secondary O
 and O
 momentum O
 that’s O
-lacking O
+lacking Attribute
 
 above O
 When O
@@ -203830,6 +203956,7 @@ things. O
 the O
 house, O
 along Accompanier
+with O
 
 leader O
 is O
@@ -203919,9 +204046,9 @@ thrillers. O
 that O
 he O
 has O
-less O
+less Approximator
 and O
-less O
+less Approximator
 time O
 
 Sometimes O
@@ -203964,7 +204091,7 @@ Maryland, O
 that O
 I O
 was O
-lacking O
+lacking Attribute
 growing O
 up. O
 
@@ -204479,7 +204606,7 @@ the O
 room O
 . O
 
-less O
+less Approximator
 established O
 sports, O
 the O
@@ -204494,7 +204621,7 @@ the O
 has O
 a O
 lot O
-less O
+less Approximator
 to O
 do O
 
@@ -204939,6 +205066,7 @@ All O
 the O
 scrutiny, O
 along Accompanier
+with O
 
 further O
 deepen O
@@ -204957,7 +205085,7 @@ points. O
 submitted O
 an O
 essay; O
-less O
+less Approximator
 people O
 have O
 submitted O
@@ -205006,6 +205134,7 @@ change O
 reconciliation O
 efforts O
 along Accompanier
+with O
 
 1:51 O
 Now O
@@ -205283,7 +205412,7 @@ developing O
 nations O
 
 have O
-less O
+less Approximator
 exposure O
 
 converts O
@@ -206159,7 +206288,7 @@ minus O
 4.5 O
 
 be O
-lacking O
+lacking Attribute
 then O
 a O
 case O
@@ -206474,6 +206603,7 @@ Rock O
 Instrumental O
 Performance O
 along Accompanier
+with O
 
 are O
 seen O
