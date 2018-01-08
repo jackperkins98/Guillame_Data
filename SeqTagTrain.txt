@@ -111492,7 +111492,9 @@ drastically O
 let's O
 the O
 place O
-down Oalong Accompanier\nwith O\n
+down O
+along Accompanier
+with O
 though O
 
 a O
